@@ -101,10 +101,12 @@ network 10.0.0.0 [WM] area [area-id]  # Area ID = 0 for a single area
 
 | Class       | Subnet Mask   | Networks             | Devices    | Borrow | Notes                                                                    |
 | ----------- | ------------- | -------------------- | ---------- | ------ | ------------------------------------------------------------------------ |
-| A           | 255.0.0.0     | 126                  | 16 million | 22     | All `0s` are host portion, others (excluding first) are network portions |
-| B           | 255.255.0.0   | 16k                  | 65k        | 14     |                                                                          |
-| C           | 255.255.255.0 | 2 million            | 254        | 6      |                                                                          |
-| **Special** | 127           | **Loopback Address** |            |        |                                                                          |
+| A           | 255.0.0.0     | 126                  | 16 million | 22     |                                                                         |
+| B           | 255.255.0.0   | 16k                  | 65k        | 14     |                                                                         |
+| C           | 255.255.255.0 | 2 million            | 254        | 6      |                                                                         |
+| **Special** | 127           | **Loopback Address** |            |        |                                                                         |
+
+**Note:** All `0s` are host portion, others (excluding first) are network portions.
 
 📌 **More details**: [Cisco Learning Network](https://learningnetwork.cisco.com/s/question/0D53i00000Kt4O3CAJ/class-a-b-c)
 
