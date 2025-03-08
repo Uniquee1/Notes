@@ -49,7 +49,7 @@ network 11.0.0.0
 
 ```cisco
 # View neighbor table
-> show ip ospf neighbor
+> show ip eigrp neighbor
 
 # Configure EIGRP
 router eigrp [AS#]  # AS (Autonomous System) number: 1-65535
