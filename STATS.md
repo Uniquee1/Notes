@@ -50,17 +50,17 @@
    C. Cluster Sampling  
    D. Stratified Sampling  
 
-9. Which of the following is NOT an example of probability sampling?  
-   A. Simple Random Sampling  
-   **B. Convenience Sampling**  
-   C. Stratified Sampling  
-   D. Cluster Sampling  
+9. This statistical graph shows the extent of correlation between two variables.
+   **A. Scatter-Plot**             
+   B. Histogram
+   C. Line Graph                 
+   D. Bar Graph  
 
-10. The correct term for the entire set of items or individuals of interest in a study is:  
-   **A. Population**  
-   B. Sample  
-   C. Census  
-   D. Statistic  
+10. This sampling method groups a population into subgroups and then randomly selects the subgroups that will go into the sample. Members of the subgroups are also chosen randomly.
+   **A. Cluster Sampling**             
+   B. Systematic Sampling
+   C. Stratified Sampling
+   D. Subjective Sampling
 
 ## Activity 2.2 Measure of Central Tendency
 
