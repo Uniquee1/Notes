@@ -3,10 +3,10 @@
 ## Activity 2.1 Uses of Statistics
 
 1. This does not belong in the list.  
-   **A. Final grades at the end of the semester**  
+   A. Final grades at the end of the semester  
    B. Quantity of water in a container in ml  
    C. Number of smartphones owned by a student  
-   D. Brand names of phones owned by students  
+   **D. Brand names of phones owned by students**  
 
 2. This is discrete data except  
    A. Final grades at the end of the semester  
