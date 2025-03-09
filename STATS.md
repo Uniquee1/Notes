@@ -21,15 +21,15 @@
    D. Histogram  
 
 4. This does not belong in the list.  
-   A. Mean  
-   **B. Variance**  
+   **A. Mean**  
+   B. Variance  
    C. Range  
    D. Standard Deviation  
 
 5. This is a measure of central tendency.  
    A. Range  
-   B. Median  
-   **C. Mean Absolute Deviation**  
+   **B. Median**  
+   C. Mean Absolute Deviation  
    D. Standard Deviation  
 
 6. This is the statistical graph that shows visually the trend in a set of bivariate data.  
@@ -66,14 +66,20 @@
 
 1. This is the median of set A: A = {6, 4, 9, 11, 15, 3}  
    A. 6  
-   B. 7.5  
-   **C. 9**  
+   **B. 7.5**  
+   C. 9  
    D. 15  
 
 2. Julian receives his grades at the end of the semester from the student portal. This is his GWA.  
-   **A. 2.0**  
+
+      | Subject        | Credits | Grade |
+      |----------------|---------|-------|
+      | Chemistry 101  | 3       | 2     |
+      | Physics 101    | 4       | 2.25  |
+
+   A. 2.0  
    B. 2.34  
-   C. 2.14  
+   **C. 2.14**  
    D. 2.20  
 
 3. This is the mode of set B: B = {a, e, i, o, u, a, x, a, y}  
