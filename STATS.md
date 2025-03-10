@@ -178,8 +178,8 @@
    | B       | 75   | 4                  |
 
    This section shows a higher relative variability in scores than the other section.  
-   **A. Section A**  
-   B. Section B  
+   A. Section A  
+   **B. Section B**  
 
 8. The standard deviation of a set of scores is 4. If each score in the set is increased by 1 point, this is the new resulting standard deviation.  
    **A. 4**  
