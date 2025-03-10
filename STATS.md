@@ -134,41 +134,41 @@
 
 
 1. These are the 𝑄1, 𝑄2, and 𝑄3, respectively of set A: 𝐴 = {6, 4, 9, 11, 15, 3, 10}  
-   - A. 4, 10, 11  
-   - B. 3, 9.5, 11  
-   - **C. 4, 9, 11**  
-   - D. 11, 9, 4  
+   A. 4, 10, 11  
+   B. 3, 9.5, 11  
+   **C. 4, 9, 11**  
+   D. 11, 9, 4  
 
 2. This is the range of 𝐴 = {6, 4, 9, 11, 15, 3, 10}.  
-   - **A. 12**  
-   - B. 15  
-   - C. 4  
-   - D. 7  
+   **A. 12**  
+   B. 15  
+   C. 4  
+   D. 7  
 
 3. This is the interquartile range of 𝐴 = {6, 4, 9, 11, 15, 3, 10}.  
-   - A. 3  
-   - B. 7  
-   - **C. 8**  
-   - D. 9  
+   A. 3  
+   **B. 7**  
+   C. 8  
+   D. 9  
 
 4. This measure of dispersion is most affected by extreme values.  
-   - **A. Range**  
-   - B. IQR  
-   - C. Variance  
-   - D. Standard Deviation  
+   **A. Range**  
+   B. IQR  
+   C. Variance  
+   D. Standard Deviation  
 
 5. The mean and variance in the recent midterm exam are 85 and 9, respectively.  
    The highest score is 95. The lowest is 78. This is the standard deviation.  
-   - A. 17  
-   - B. 85  
-   - **C. 3**  
-   - D. 81  
+   A. 17  
+   B. 85  
+   **C. 3**  
+   D. 81  
 
 6. This measures the relative variability of a set of scores in relation to another set of scores.  
-   - **A. Coefficient of Variation**  
-   - B. Variance  
-   - C. IQR  
-   - D. Range  
+   **A. Coefficient of Variation**  
+   B. Variance  
+   C. IQR  
+   D. Range  
 
 7. The summary of the results in a departmental exam of two sections is shown below.  
 
@@ -178,27 +178,27 @@
    | B       | 75   | 4                  |
 
    This section shows a higher relative variability in scores than the other section.  
-   - **A. Section A**  
-   - B. Section B  
+   **A. Section A**  
+   B. Section B  
 
 8. The standard deviation of a set of scores is 4. If each score in the set is increased by 1 point, this is the new resulting standard deviation.  
-   - **A. 4**  
-   - B. 5  
-   - C. 1  
-   - D. 6  
+   **A. 4**  
+   B. 5  
+   C. 1  
+   D. 6  
 
 9. The proctor of an exam announces that the range of the scores in the exam is 34.  
    You are told you scored highest with 95 points. This is the lowest score in the exam.  
-   - A. 71  
-   - B. 81  
-   - C. 51  
-   - **D. 61**  
+   A. 71  
+   B. 81  
+   C. 51  
+   **D. 61**  
 
 10. This measure of dispersion is least affected by extreme values.  
-   - A. Range  
-   - **B. IQR**  
-   - C. Variance  
-   - D. Standard Deviation  
+    A. Range  
+    **B. IQR**  
+    C. Variance  
+    D. Standard Deviation  
 
 ## Answers to Activity 2.4 - Measure of Relative Position
 
