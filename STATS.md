@@ -433,28 +433,28 @@
 
 ## Measures of Central Tendency
 - **Mean**: Average of all values.
-  - Formula: \[ \bar{x} = \frac{\sum x_i}{n} \]
+  - Formula: (x̄ = Σxᵢ / n)
 - **Median**: Middle value when arranged in order.
 - **Mode**: Most frequently occurring value.
-- **Geometric Mean**: \( \sqrt[n]{x_1 \cdot x_2 \cdots x_n} \)
-- **Harmonic Mean**: \( n \div \sum (1/x_i) \)
+- **Geometric Mean**: (ⁿ√(x₁ ⋅ x₂ ⋅ ... ⋅ xₙ))
+- **Harmonic Mean**: (n ÷ Σ(1/xᵢ))
 
 ## Measures of Dispersion
 - **Range**: Difference between max and min values.
-  - Formula: \( R = x_{max} - x_{min} \)
-- **Interquartile Range (IQR)**: \( Q3 - Q1 \)
+  - Formula: (R = xₘₐₓ - xₘᵢₙ)
+- **Interquartile Range (IQR)**: (Q₃ - Q₁)
 - **Variance**: Measures spread of data.
-  - Formula: \( \sigma^2 = \frac{\sum (x_i - \bar{x})^2}{n} \)
+  - Formula: (σ² = Σ(xᵢ - x̄)² / n)
 - **Standard Deviation**: Square root of variance.
-  - Formula: \( \sigma = \sqrt{\sigma^2} \)
-- **Coefficient of Variation (CV)**: \( (\sigma / \bar{x}) \times 100\%
+  - Formula: (σ = √σ²)
+- **Coefficient of Variation (CV)**: ((σ / x̄) × 100%)
 
 ## Measures of Relative Position
 - **Percentile Rank**: Percentage of values below a given score.
 - **Z-Score**: Position relative to mean.
-  - Formula: \( z = \frac{x - \mu}{\sigma} \)
+  - Formula: (z = (x - μ) / σ)
 - **Quartiles**: Data division into 4 equal parts.
-  - Q1 = 25th percentile, Q2 = 50th percentile (Median), Q3 = 75th percentile.
+  - Q₁ = 25th percentile, Q₂ = 50th percentile (Median), Q₃ = 75th percentile.
 
 ## Normal Probability Distribution
 - **Standard Normal Curve**: Area under the curve is 1.
@@ -470,7 +470,7 @@
 - **Pearson's Correlation Coefficient (r)**: Measures strength of linear relationship.
 - **Coefficient of Determination (r²)**: Measures variability explained by regression.
 - **Regression Equation**:
-  - Formula: \( y = mx + b \)
+  - Formula: (y = mx + b)
   - `=SLOPE(y_range, x_range)` - Calculates slope.
   - `=INTERCEPT(y_range, x_range)` - Calculates y-intercept.
   - `=PEARSON(x_range, y_range)` - Calculates correlation.
