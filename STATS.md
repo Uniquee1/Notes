@@ -227,8 +227,8 @@
 
 4. This is the second quartile in set A. 𝐴 = {6, 4, 9, 10, 15, 3, 10, 1}.  
    - A. 7.0  
-   - B. 7.5  
-   - **C. 8**  
+   - **B. 7.5**  
+   - C. 8  
    - D. 9  
 
 5. Maria’s z-score in the final exams is 𝑧 = -1.0. This is true.  
