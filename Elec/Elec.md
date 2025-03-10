@@ -28,7 +28,7 @@
 - These vibrations push nearby air molecules together, raising the air pressure slightly. The air molecules under pressure then push on surrounding molecules, creating waves of pressure changes.
 - When these waves reach our ears, they vibrate our receptors, and we perceive them as sound.
 
-  ![Waveform Representation](waveform.avif)
+  ![Waveform Representation](waveform.avif)      
   A sound wave represented as a visual waveform
   **A.** Zero line **B.** Low-pressure area **C.** High-pressure area 
 
@@ -46,7 +46,10 @@
 - **Phase**: Measured in degrees, indicating the waveform's position in a cycle (0º at the start, 90º at high pressure, 180º at mid-point, 270º at low pressure, 360º at the end).
 - **Wavelength**: The distance between two points with the same phase degree. As frequency increases, wavelength decreases.
 
-  ![Wavelength 1](wavelength1.avif) ![Wavelength 2](wavelength2.avif)
+  <p align="Left">
+    <img src="wavelength1.avif" alt="Image 1" width="45%">
+    <img src="wavelength1.avif" alt="Image 2" width="45%">
+</p>        
   A single cycle at left; a complete, 20-Hz waveform at right
   **A.** Wavelength **B.** Degree of phase **C.** Amplitude **D.** One second 
 
