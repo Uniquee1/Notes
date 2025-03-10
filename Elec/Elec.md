@@ -28,6 +28,11 @@
 - These vibrations push nearby air molecules together, raising the air pressure slightly. The air molecules under pressure then push on surrounding molecules, creating waves of pressure changes.
 - When these waves reach our ears, they vibrate our receptors, and we perceive them as sound.
 
+  ![Waveform Representation](waveform.avif)
+  A sound wave represented as a visual waveform
+  **A.** Zero line **B.** Low-pressure area **C.** High-pressure area 
+
+
 #### Visual Representation of Sound Waves
 - A visual waveform represents these waves of air pressure.
 - The zero line in the waveform is the air at rest.
@@ -40,6 +45,11 @@
 - **Frequency**: Measured in hertz (Hz), it describes the number of cycles per second (e.g., a 1000-Hz waveform has 1000 cycles per second). Higher frequency equals higher pitch.
 - **Phase**: Measured in degrees, indicating the waveform's position in a cycle (0º at the start, 90º at high pressure, 180º at mid-point, 270º at low pressure, 360º at the end).
 - **Wavelength**: The distance between two points with the same phase degree. As frequency increases, wavelength decreases.
+
+  ![Wavelength 1](wavelength1.avif) ![Wavelength 2](wavelength2.avif)
+  A single cycle at left; a complete, 20-Hz waveform at right
+  **A.** Wavelength **B.** Degree of phase **C.** Amplitude **D.** One second 
+
 
 ### How Sound Waves Interact
 - When two or more sound waves meet, they can **add or subtract** from each other.
