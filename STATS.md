@@ -222,8 +222,8 @@
 3. This is the third quartile in set A. 𝐴 = {6, 4, 9, 10, 15, 3, 10, 1}.  
    - A. 3  
    - B. 9  
-   - **C. 11**  
-   - D. 10  
+   - C. 11  
+   - **D. 10**  
 
 4. This is the second quartile in set A. 𝐴 = {6, 4, 9, 10, 15, 3, 10, 1}.  
    - A. 7.0  
