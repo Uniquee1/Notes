@@ -377,44 +377,108 @@
    **C. Coefficient of Determination**    
    D. Bivariate Correlation  
 
-3. This is false about the coefficient of determination.  
+2. This is false about the coefficient of determination.  
    A. It is always nonnegative.  
    **B. It shows the direction of relationship.**  
    C. It shows the proportion of the fluctuations in 𝑦 that is explained by the fluctuations in 𝑥.  
    D. It measures the reliability of the regression equation.  
 
-4. Pearson’s correlation coefficient applies only to linear regression.  
+3. Pearson’s correlation coefficient applies only to linear regression.  
    **A. TRUE**  
    B. FALSE  
 
-5. The closer to zero is the sum of the residuals, the more reliable is the regression equation.  
+4. The closer to zero is the sum of the residuals, the more reliable is the regression equation.  
    A. TRUE  
    **B. FALSE**  
 
-6. This EXCEL function gives the estimate rate of change in the values of the response variable over the change in the predictor variables.  
+5. This EXCEL function gives the estimate rate of change in the values of the response variable over the change in the predictor variables.  
    A. = RATE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    B. = INTERCEPT(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    C. = RSQ(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    **D. = SLOPE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)**  
 
-7. The square root of 𝑟² gives Pearson’s correlation coefficient.  
+6. The square root of 𝑟² gives Pearson’s correlation coefficient.  
    **A. TRUE**  
    B. FALSE  
 
-8. Pearson’s 𝑟 gives the direction and strength of the linear relationship between two variables.  
+7. Pearson’s 𝑟 gives the direction and strength of the linear relationship between two variables.  
    **A. TRUE**  
    B. FALSE  
 
-9. Given a bivariate data (𝑥, 𝑦), if the value of Pearson’s 𝑟 is close to 1, then 𝑥 causes 𝑦.  
+8. Given a bivariate data (𝑥, 𝑦), if the value of Pearson’s 𝑟 is close to 1, then 𝑥 causes 𝑦.  
    A. TRUE  
    **B. FALSE**  
 
-10. The coefficient of determination measures the strength of the relationship between the response variable and predictor variable.  
+9. The coefficient of determination measures the strength of the relationship between the response variable and predictor variable.  
    **A. TRUE**  
    B. FALSE  
 
-11. This EXCEL function gives the direction and strength of the linear relationship between X and Y.  
+10. This EXCEL function gives the direction and strength of the linear relationship between X and Y.  
    **A. = PEARSON(A1: G8, A2: G8)**  
    B. = RSQ(B2: G8, B1: G2)  
    C. = PEARSON(B1: G1, B2: G2)  
    D. = SLOPE(B1: G1, B2: G2)  
+
+---
+
+# Statistics Reviewer
+
+## Uses of Statistics
+- **Discrete Data**: Countable values (e.g., number of smartphones).
+- **Continuous Data**: Measurable values (e.g., weight in kg).
+- **Types of Graphs**:
+  - **Pie Chart**: Represents proportions.
+  - **Line Graph**: Shows trends in bivariate data.
+  - **Scatter Plot**: Displays correlation between two variables.
+
+## Measures of Central Tendency
+- **Mean**: Average of all values.
+  - Formula: \[ \bar{x} = \frac{\sum x_i}{n} \]
+- **Median**: Middle value when arranged in order.
+- **Mode**: Most frequently occurring value.
+- **Geometric Mean**: \( \sqrt[n]{x_1 \cdot x_2 \cdots x_n} \)
+- **Harmonic Mean**: \( n \div \sum (1/x_i) \)
+
+## Measures of Dispersion
+- **Range**: Difference between max and min values.
+  - Formula: \( R = x_{max} - x_{min} \)
+- **Interquartile Range (IQR)**: \( Q3 - Q1 \)
+- **Variance**: Measures spread of data.
+  - Formula: \( \sigma^2 = \frac{\sum (x_i - \bar{x})^2}{n} \)
+- **Standard Deviation**: Square root of variance.
+  - Formula: \( \sigma = \sqrt{\sigma^2} \)
+- **Coefficient of Variation (CV)**: \( (\sigma / \bar{x}) \times 100\%
+
+## Measures of Relative Position
+- **Percentile Rank**: Percentage of values below a given score.
+- **Z-Score**: Position relative to mean.
+  - Formula: \( z = \frac{x - \mu}{\sigma} \)
+- **Quartiles**: Data division into 4 equal parts.
+  - Q1 = 25th percentile, Q2 = 50th percentile (Median), Q3 = 75th percentile.
+
+## Normal Probability Distribution
+- **Standard Normal Curve**: Area under the curve is 1.
+- **Empirical Rule**:
+  - 68% within 1 SD, 95% within 2 SDs, 99.7% within 3 SDs.
+- **Probability Formulas**:
+  - Sum of probabilities = 1.
+  - **Excel Functions**:
+    - `=NORM.DIST(x, mean, sd, TRUE)` - Cumulative probability.
+    - `=PERCENTILE.EXC(data, p)` - Percentile calculation.
+
+## Linear Regression
+- **Pearson's Correlation Coefficient (r)**: Measures strength of linear relationship.
+- **Coefficient of Determination (r²)**: Measures variability explained by regression.
+- **Regression Equation**:
+  - Formula: \( y = mx + b \)
+  - `=SLOPE(y_range, x_range)` - Calculates slope.
+  - `=INTERCEPT(y_range, x_range)` - Calculates y-intercept.
+  - `=PEARSON(x_range, y_range)` - Calculates correlation.
+
+## Skewness and Kurtosis
+- **Positively Skewed**: Mean > Median.
+- **Negatively Skewed**: Mean < Median.
+- **Kurtosis Types**:
+  - **Leptokurtic**: Many outliers.
+  - **Mesokurtic**: Moderate outliers.
+  - **Platykurtic**: Few outliers.
