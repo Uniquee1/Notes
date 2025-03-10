@@ -372,9 +372,9 @@
 
 
 1. This does not belong in the list.  
-   A. Pearson’s 𝑟
+   A. Pearson’s 𝑟          
    B. Correlation Coefficient       
-   **C. Coefficient of Determination**    
+   **C. Coefficient of Determination** 
    D. Bivariate Correlation  
 
 2. This is false about the coefficient of determination.  
