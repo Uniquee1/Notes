@@ -295,10 +295,10 @@
    **D. 0.28**  
 
 4. This is the probability the sum is greater than 10.  
-   A. 0.09  
+   **A. 0.09**  
    B. 0.10  
    C. 0.17  
-   **D. 0.11**  
+   D. 0.11  
 
 5. Given a probability distribution, this is the sum of the probabilities of all outcomes.  
    A. 100  
@@ -372,48 +372,48 @@
 
 
 1. This does not belong in the list.  
-   A. Pearson’s 𝑟  
-   C. Coefficient of Determination  
-   B. Correlation Coefficient  
-   **D. Bivariate Correlation**  
+   A. Pearson’s 𝑟
+   B. Correlation Coefficient       
+   **C. Coefficient of Determination**    
+   D. Bivariate Correlation  
 
-2. This is false about the coefficient of determination.  
+3. This is false about the coefficient of determination.  
    A. It is always nonnegative.  
    **B. It shows the direction of relationship.**  
    C. It shows the proportion of the fluctuations in 𝑦 that is explained by the fluctuations in 𝑥.  
    D. It measures the reliability of the regression equation.  
 
-3. Pearson’s correlation coefficient applies only to linear regression.  
+4. Pearson’s correlation coefficient applies only to linear regression.  
    **A. TRUE**  
    B. FALSE  
 
-4. The closer to zero is the sum of the residuals, the more reliable is the regression equation.  
-   **A. TRUE**  
-   B. FALSE  
+5. The closer to zero is the sum of the residuals, the more reliable is the regression equation.  
+   A. TRUE  
+   **B. FALSE**  
 
-5. This EXCEL function gives the estimate rate of change in the values of the response variable over the change in the predictor variables.  
+6. This EXCEL function gives the estimate rate of change in the values of the response variable over the change in the predictor variables.  
    A. = RATE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    B. = INTERCEPT(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    C. = RSQ(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
    **D. = SLOPE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)**  
 
-6. The square root of 𝑟² gives Pearson’s correlation coefficient.  
+7. The square root of 𝑟² gives Pearson’s correlation coefficient.  
    **A. TRUE**  
    B. FALSE  
 
-7. Pearson’s 𝑟 gives the direction and strength of the linear relationship between two variables.  
+8. Pearson’s 𝑟 gives the direction and strength of the linear relationship between two variables.  
    **A. TRUE**  
    B. FALSE  
 
-8. Given a bivariate data (𝑥, 𝑦), if the value of Pearson’s 𝑟 is close to 1, then 𝑥 causes 𝑦.  
+9. Given a bivariate data (𝑥, 𝑦), if the value of Pearson’s 𝑟 is close to 1, then 𝑥 causes 𝑦.  
    A. TRUE  
    **B. FALSE**  
 
-9. The coefficient of determination measures the strength of the relationship between the response variable and predictor variable.  
+10. The coefficient of determination measures the strength of the relationship between the response variable and predictor variable.  
    **A. TRUE**  
    B. FALSE  
 
-10. This EXCEL function gives the direction and strength of the linear relationship between X and Y.  
+11. This EXCEL function gives the direction and strength of the linear relationship between X and Y.  
    **A. = PEARSON(A1: G8, A2: G8)**  
    B. = RSQ(B2: G8, B1: G2)  
    C. = PEARSON(B1: G1, B2: G2)  
