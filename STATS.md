@@ -52,15 +52,15 @@
 
 9. This statistical graph shows the extent of correlation between two variables.
    **A. Scatter-Plot**             
-   B. Histogram
-   C. Line Graph                 
+   B. Histogram                        
+   C. Line Graph                       
    D. Bar Graph  
 
 10. This sampling method groups a population into subgroups and then randomly selects the subgroups that will go into the sample. Members of the subgroups are also chosen randomly.
-   **A. Cluster Sampling**             
-   B. Systematic Sampling
-   C. Stratified Sampling
-   D. Subjective Sampling
+    **A. Cluster Sampling**            
+    B. Systematic Sampling             
+    C. Stratified Sampling             
+    D. Subjective Sampling
 
 ## Activity 2.2 Measure of Central Tendency
 
@@ -95,9 +95,9 @@
    **D. 43.24**  
 
 5. This does not belong in the list.  
-   **A. General Weighted Average**  
+   A. General Weighted Average      
    B. Median  
-   C. Mode  
+   **C. Mode**  
    D. Mean  
 
 6. This measure of central tendency works best with categorical data.  
