@@ -205,216 +205,216 @@
 
 1. Mark receives the results of his national academic achievement test. It says  
    his score is in the 45th percentile. Which of the following is true?  
-   - A. He got 45 questions out of 100 correct.  
-   - B. He got 45% of the items correct.  
-   - **C. Forty-five percent of the scores in the test are less than his score.**  
-   - D. Forty-five percent of the scores in the test are better than his score.  
+   A. He got 45 questions out of 100 correct.  
+   B. He got 45% of the items correct.  
+   **C. Forty-five percent of the scores in the test are less than his score.**  
+   D. Forty-five percent of the scores in the test are better than his score.  
 
 2. The average weight of newly born babies in the Philippines is 3.5 kg with a  
    standard deviation of 1 kg. Vergel Coronel is born just hours ago in a private  
    hospital in Batangas City. His weight is 3.0 kg. His weight is equivalent to  
    this z-score.  
-   - A. 𝑧 = 0.5  
-   - **B. 𝑧 = -0.5**  
-   - C. 𝑧 = 1  
-   - D. 𝑧 = 3.0  
+   A. 𝑧 = 0.5  
+   **B. 𝑧 = -0.5**  
+   C. 𝑧 = 1  
+   D. 𝑧 = 3.0  
 
 3. This is the third quartile in set A. 𝐴 = {6, 4, 9, 10, 15, 3, 10, 1}.  
-   - A. 3  
-   - B. 9  
-   - C. 11  
-   - **D. 10**  
+   A. 3  
+   B. 9  
+   C. 11  
+   **D. 10**  
 
 4. This is the second quartile in set A. 𝐴 = {6, 4, 9, 10, 15, 3, 10, 1}.  
-   - A. 7.0  
-   - **B. 7.5**  
-   - C. 8  
-   - D. 9  
+   A. 7.0  
+   **B. 7.5**  
+   C. 8  
+   D. 9  
 
 5. Maria’s z-score in the final exams is 𝑧 = -1.0. This is true.  
-   - A. Her score is failing.  
-   - B. Her score is 1.  
-   - **C. Her score is below the average score in the final exam.**  
-   - D. Her score is one standard deviation less than 20 points.  
+   A. Her score is failing.  
+   B. Her score is 1.  
+   **C. Her score is below the average score in the final exam.**  
+   D. Her score is one standard deviation less than 20 points.  
 
 6. Ten students stand in formation in increasing order of age, from youngest to  
    oldest. Rosemay stands as the fourth youngest person. This is the percentile  
    rank of her age.  
-   - **A. 40th percentile**  
-   - C. 30th percentile  
-   - B. 50th percentile  
-   - D. 70th percentile  
+   **A. 40th percentile**  
+   C. 30th percentile  
+   B. 50th percentile  
+   D. 70th percentile  
 
 7. Given a data set, this is the proportion of the data that is less than the median.  
-   - A. 78%  
-   - B. 40%  
-   - C. 30%  
-   - **D. 50%**  
+   A. 78%  
+   B. 40%  
+   C. 30%  
+   **D. 50%**  
 
 8. This is the information the z-score gives.  
-   - **A. The position of a score in relation to the standard deviation**  
-   - B. The position of a score in relation to the highest score  
-   - C. The position of a score in relation to the quartiles  
-   - D. The position of a score in relation to the mean.  
+   **A. The position of a score in relation to the standard deviation**  
+   B. The position of a score in relation to the highest score  
+   C. The position of a score in relation to the quartiles  
+   D. The position of a score in relation to the mean.  
 
 9. The heights in cm of male students in a class are shown below. This produces  
    the 75th percentile.  
-   - **A. = PERCENTILE.EXC(A1:D5, 0.75)**  
-   - B. = PERCENTILE.EXC(A1:D5, 75%)  
-   - C. = PERCENTRANK.EXC(A1:D5, 75%)  
-   - D. = PERCENTRANK.EXC(A1:D1, 0.75)  
+   **A. = PERCENTILE.EXC(A1:D5, 0.75)**  
+   B. = PERCENTILE.EXC(A1:D5, 75%)  
+   C. = PERCENTRANK.EXC(A1:D5, 75%)  
+   D. = PERCENTRANK.EXC(A1:D1, 0.75)  
 
 10. Refer to the table of #9. This produces the percentile rank of 155 cm.  
-   - **A. = PERCENTRANK.EXC(A1:D5, 155)**  
-   - B. = PERCENTILE.EXC(A1:D5, 155)  
-   - C. = PERCENT(A1:D5, 155)  
-   - D. = PERCENTRANK.EXC(A1:D1, 0.75)  
+   **A. = PERCENTRANK.EXC(A1:D5, 155)**  
+   B. = PERCENTILE.EXC(A1:D5, 155)  
+   C. = PERCENT(A1:D5, 155)  
+   D. = PERCENTRANK.EXC(A1:D1, 0.75)  
 
-## Answers to Activity 2.6 - Normal Probability Distribution
+## Answers to Activity 2.5 - Normal Probability Distribution
 
 
 1. This is the entire area of the region under the standard normal curve.  
-   - A. 100  
-   - B. 10  
-   - **C. 1.0**  
-   - D. Infinity  
+   A. 100  
+   B. 10  
+   **C. 1.0**  
+   D. Infinity  
 
 2. Suppose 𝑋 is the height in meters of 5-year-old boys. The probability distribution of 𝑋  
    is observed to be normally distributed. A random sample of 5-year-old boys is selected  
    from the population. This is the proportion of the sample whose height is within 1 standard deviation from average height.  
-   - A. 0.50  
-   - B. 0.34  
-   - **C. 0.68**  
-   - D. 2.0  
+   A. 0.50  
+   B. 0.34  
+   **C. 0.68**  
+   D. 2.0  
 
 3. Go to the probability distribution of the sum of numbers upon rolling two dice.  
    Two fair dice are rolled. This is the probability the sum is less than or equal to 5.  
-   - A. 0.40  
-   - B. 0.17  
-   - C. 0.11  
-   - **D. 0.28**  
+   A. 0.40  
+   B. 0.17  
+   C. 0.11  
+   **D. 0.28**  
 
 4. This is the probability the sum is greater than 10.  
-   - A. 0.09  
-   - B. 0.10  
-   - C. 0.17  
-   - **D. 0.11**  
+   A. 0.09  
+   B. 0.10  
+   C. 0.17  
+   **D. 0.11**  
 
 5. Given a probability distribution, this is the sum of the probabilities of all outcomes.  
-   - A. 100  
-   - B. 10  
-   - C. 0.1  
-   - **D. 1.0**  
+   A. 100  
+   B. 10  
+   C. 0.1  
+   **D. 1.0**  
 
 6. IQ is observed to be normally distributed. A person is randomly selected  
    from the general population. This is the probability his or her IQ is 100.  
-   - **A. 0**  
-   - B. 0.50  
-   - C. 1.0  
-   - D. 0.75  
+   **A. 0**  
+   B. 0.50  
+   C. 1.0  
+   D. 0.75  
 
 7. Given a continuous random variable X that is normally distributed with  
    mean 20 and standard deviation 2.5. This returns the probability that a data  
    value has a value less than 21.  
-   - A. =NORM.S.DIST(21, 20, 2.5, 1)  
-   - **B. =NORM.DIST(21, 20, 2.5, 1)**  
+   A. =NORM.S.DIST(21, 20, 2.5, 1)  
+   **B. =NORM.DIST(21, 20, 2.5, 1)**  
 
 8. This is the information the z-score gives.  
-   - **A. The position of a score in relation to the standard deviation**  
-   - B. The position of a score in relation to the highest score  
-   - C. The position of a score in relation to the quartiles  
-   - D. The position of a score in relation to the mean.  
+   **A. The position of a score in relation to the standard deviation**  
+   B. The position of a score in relation to the highest score  
+   C. The position of a score in relation to the quartiles  
+   D. The position of a score in relation to the mean.  
 
 9. The heights in cm of male students in a class are shown below. This produces  
    the 75th percentile.  
-   - **A. = PERCENTILE.EXC(A1: D5, 0.75)**  
-   - B. = PERCENTILE.EXC(A1: D5, 75%)  
-   - C. = PERCENTRANK.EXC(A1: D5, 75%)  
-   - D. = PERCENTRANK.EXC(A1: D1, 0.75)  
+   **A. = PERCENTILE.EXC(A1: D5, 0.75)**  
+   B. = PERCENTILE.EXC(A1: D5, 75%)  
+   C. = PERCENTRANK.EXC(A1: D5, 75%)  
+   D. = PERCENTRANK.EXC(A1: D1, 0.75)  
 
 10. Refer to the table of #9. This produces the percentile rank of 155 cm.  
-    - **A. = PERCENTRANK.EXC(A1: D5, 155)**  
-    - B. = PERCENTILE.EXC(A1: D5, 155)  
-    - C. = PERCENT(A1: D5, 155)  
-    - D. = PERCENTRANK.EXC(A1: D1, 0.75)  
+    **A. = PERCENTRANK.EXC(A1: D5, 155)**  
+    B. = PERCENTILE.EXC(A1: D5, 155)  
+    C. = PERCENT(A1: D5, 155)  
+    D. = PERCENTRANK.EXC(A1: D1, 0.75)  
 
 11. This distribution shows the presence of too many outliers.  
-    - A. Mesokurtic  
-    - B. Platykurtic  
-    - **C. Leptokurtic**  
-    - D. Normal Distribution  
+    A. Mesokurtic  
+    B. Platykurtic  
+    **C. Leptokurtic**  
+    D. Normal Distribution  
 
 12. This distribution shows the presence of too few outliers.  
-    - A. Mesokurtic  
-    - **B. Platykurtic**  
-    - C. Leptokurtic  
-    - D. Normal Distribution  
+    A. Mesokurtic  
+    **B. Platykurtic**  
+    C. Leptokurtic  
+    D. Normal Distribution  
 
 13. This distribution shows a moderate presence of outliers.  
-    - **A. Mesokurtic**  
-    - B. Platykurtic  
-    - C. Leptokurtic  
-    - D. Normal Distribution  
+    **A. Mesokurtic**  
+    B. Platykurtic  
+    C. Leptokurtic  
+    D. Normal Distribution  
 
 14. This is true about positively skewed distributions.  
-    - A. Mean = Median  
-    - B. Mean < Median  
-    - **C. Mean > Median**  
-    - D. Mean = 0  
+    A. Mean = Median  
+    B. Mean < Median  
+    **C. Mean > Median**  
+    D. Mean = 0  
 
 15. This is true about negatively skewed distributions.  
-    - A. Mean = Median  
-    - **B. Mean < Median**  
-    - C. Mean > Median  
-    - D. Median = 0  
+    A. Mean = Median  
+    **B. Mean < Median**  
+    C. Mean > Median  
+    D. Median = 0  
 
-## Answers to Activity 2.7 - Linear Regression
+## Answers to Activity 2.6 - Linear Regression
 
 
 1. This does not belong in the list.  
-   - A. Pearson’s 𝑟  
-   - C. Coefficient of Determination  
-   - B. Correlation Coefficient  
-   - **D. Bivariate Correlation**  
+   A. Pearson’s 𝑟  
+   C. Coefficient of Determination  
+   B. Correlation Coefficient  
+   **D. Bivariate Correlation**  
 
 2. This is false about the coefficient of determination.  
-   - A. It is always nonnegative.  
-   - **B. It shows the direction of relationship.**  
-   - C. It shows the proportion of the fluctuations in 𝑦 that is explained by the fluctuations in 𝑥.  
-   - D. It measures the reliability of the regression equation.  
+   A. It is always nonnegative.  
+   **B. It shows the direction of relationship.**  
+   C. It shows the proportion of the fluctuations in 𝑦 that is explained by the fluctuations in 𝑥.  
+   D. It measures the reliability of the regression equation.  
 
 3. Pearson’s correlation coefficient applies only to linear regression.  
-   - **A. TRUE**  
-   - B. FALSE  
+   **A. TRUE**  
+   B. FALSE  
 
 4. The closer to zero is the sum of the residuals, the more reliable is the regression equation.  
-   - **A. TRUE**  
-   - B. FALSE  
+   **A. TRUE**  
+   B. FALSE  
 
 5. This EXCEL function gives the estimate rate of change in the values of the response variable over the change in the predictor variables.  
-   - A. = RATE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
-   - B. = INTERCEPT(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
-   - C. = RSQ(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
-   - **D. = SLOPE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)**  
+   A. = RATE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
+   B. = INTERCEPT(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
+   C. = RSQ(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)  
+   **D. = SLOPE(𝑎𝑟𝑟𝑎𝑦 𝑦, 𝑎𝑟𝑟𝑎𝑦 𝑥)**  
 
 6. The square root of 𝑟² gives Pearson’s correlation coefficient.  
-   - **A. TRUE**  
-   - B. FALSE  
+   **A. TRUE**  
+   B. FALSE  
 
 7. Pearson’s 𝑟 gives the direction and strength of the linear relationship between two variables.  
-   - **A. TRUE**  
-   - B. FALSE  
+   **A. TRUE**  
+   B. FALSE  
 
 8. Given a bivariate data (𝑥, 𝑦), if the value of Pearson’s 𝑟 is close to 1, then 𝑥 causes 𝑦.  
-   - A. TRUE  
-   - **B. FALSE**  
+   A. TRUE  
+   **B. FALSE**  
 
 9. The coefficient of determination measures the strength of the relationship between the response variable and predictor variable.  
-   - **A. TRUE**  
-   - B. FALSE  
+   **A. TRUE**  
+   B. FALSE  
 
 10. This EXCEL function gives the direction and strength of the linear relationship between X and Y.  
-   - **A. = PEARSON(A1: G8, A2: G8)**  
-   - B. = RSQ(B2: G8, B1: G2)  
-   - C. = PEARSON(B1: G1, B2: G2)  
-   - D. = SLOPE(B1: G1, B2: G2)  
+   **A. = PEARSON(A1: G8, A2: G8)**  
+   B. = RSQ(B2: G8, B1: G2)  
+   C. = PEARSON(B1: G1, B2: G2)  
+   D. = SLOPE(B1: G1, B2: G2)  
