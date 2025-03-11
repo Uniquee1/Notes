@@ -252,10 +252,10 @@
    **D. 50%**  
 
 8. This is the information the z-score gives.  
-   **A. The position of a score in relation to the standard deviation**  
+   A. The position of a score in relation to the standard deviation  
    B. The position of a score in relation to the highest score  
    C. The position of a score in relation to the quartiles  
-   D. The position of a score in relation to the mean.  
+   **D. The position of a score in relation to the mean.**  
 
 9. The heights in cm of male students in a class are shown below. This produces  
    the 75th percentile.  
@@ -320,49 +320,49 @@
    **B. =NORM.DIST(21, 20, 2.5, 1)**  
 
 8. This is the information the z-score gives.  
-   **A. The position of a score in relation to the standard deviation**  
+   A. The position of a score in relation to the standard deviation  
    B. The position of a score in relation to the highest score  
    C. The position of a score in relation to the quartiles  
-   D. The position of a score in relation to the mean.  
+   **D. The position of a score in relation to the mean.**  
 
-9. The heights in cm of male students in a class are shown below. This produces  
+10. The heights in cm of male students in a class are shown below. This produces  
    the 75th percentile.  
    **A. = PERCENTILE.EXC(A1: D5, 0.75)**  
    B. = PERCENTILE.EXC(A1: D5, 75%)  
    C. = PERCENTRANK.EXC(A1: D5, 75%)  
    D. = PERCENTRANK.EXC(A1: D1, 0.75)  
 
-10. Refer to the table of #9. This produces the percentile rank of 155 cm.  
+11. Refer to the table of #9. This produces the percentile rank of 155 cm.  
     **A. = PERCENTRANK.EXC(A1: D5, 155)**  
     B. = PERCENTILE.EXC(A1: D5, 155)  
     C. = PERCENT(A1: D5, 155)  
     D. = PERCENTRANK.EXC(A1: D1, 0.75)  
 
-11. This distribution shows the presence of too many outliers.  
+12. This distribution shows the presence of too many outliers.  
     A. Mesokurtic  
     B. Platykurtic  
     **C. Leptokurtic**  
     D. Normal Distribution  
 
-12. This distribution shows the presence of too few outliers.  
+13. This distribution shows the presence of too few outliers.  
     A. Mesokurtic  
     **B. Platykurtic**  
     C. Leptokurtic  
     D. Normal Distribution  
 
-13. This distribution shows a moderate presence of outliers.  
+14. This distribution shows a moderate presence of outliers.  
     **A. Mesokurtic**  
     B. Platykurtic  
     C. Leptokurtic  
     D. Normal Distribution  
 
-14. This is true about positively skewed distributions.  
+15. This is true about positively skewed distributions.  
     A. Mean = Median  
     B. Mean < Median  
     **C. Mean > Median**  
     D. Mean = 0  
 
-15. This is true about negatively skewed distributions.  
+16. This is true about negatively skewed distributions.  
     A. Mean = Median  
     **B. Mean < Median**  
     C. Mean > Median  
