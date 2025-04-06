@@ -21,9 +21,9 @@ Below is the updated Markdown file where **all fractions are boxed** for consist
 - Probability of not drawing a diamond card (second card): $\boxed{\frac{39}{52}} = \boxed{\frac{3}{4}}$
 
 Since the draws are independent:
-$$
+
 P(\text{Ace of Spades and Not Diamond}) = $\boxed{\frac{1}{52}} \times \boxed{\frac{3}{4}} = \boxed{\frac{3}{208}}$
-$$
+
 
 #### **Answer:** $\boxed{\frac{3}{208}}$
 
