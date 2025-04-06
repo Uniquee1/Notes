@@ -141,7 +141,7 @@ $$\text{Total Ways} = 5 \times 4 = \boxed{20}$$
 ### **12. This is the value of P(12, 7).**
 
 #### **Solution:**
-Permutation formula: $$ P(n, r) = \frac{n!}{(n-r)!} $$
+Permutation formula: $P(n, r) = \frac{n!}{(n-r)!}$
 $$P(12, 7) = \frac{12!}{(12-7)!} = \frac{12!}{5!} = 12 \times 11 \times 10 \times 9 \times 8 \times 7 \times 6 = \boxed{3,991,680}$$
 
 #### **Answer:** $\boxed{3,991,680}$
@@ -151,7 +151,7 @@ $$P(12, 7) = \frac{12!}{(12-7)!} = \frac{12!}{5!} = 12 \times 11 \times 10 \time
 ### **13. This is the value of C(9, 6).**
 
 #### **Solution:**
-Combination formula: $$ C(n, r) = \frac{n!}{r!(n-r)!} $$
+Combination formula: $C(n, r) = \frac{n!}{r!(n-r)!}$
 $$C(9, 6) = \frac{9!}{6! \cdot 3!} = \frac{9 \times 8 \times 7}{3 \times 2 \times 1} = \boxed{84}$$
 
 #### **Answer:** $\boxed{84}$
@@ -161,8 +161,8 @@ $$C(9, 6) = \frac{9!}{6! \cdot 3!} = \frac{9 \times 8 \times 7}{3 \times 2 \time
 ### **14. Josephine receives 7 books: 3 math, 2 chemistry, and 2 physics. In how many ways can she arrange the books on a shelf if the first and last book must be a math book?**
 
 #### **Solution:**
-- Fix 2 math books at the ends: $$ 3 \times 2 = 6 $$ ways.
-- Arrange the remaining 5 books: $$ 5! = 120 $$.
+- Fix 2 math books at the ends: $3 \times 2 = 6$ ways.
+- Arrange the remaining 5 books: $5! = 120$.
 
 Total arrangements:
 $$6 \times 120 = \boxed{720}$$
@@ -174,9 +174,9 @@ $$6 \times 120 = \boxed{720}$$
 ### **15. In #14, in how many ways can she arrange the books if the first two must be math books and the last two are physics books?**
 
 #### **Solution:**
-- Fix 2 math books at the start: $$ 3 \times 2 = 6 $$.
-- Fix 2 physics books at the end: $$ 2 \times 1 = 2 $$.
-- Arrange the remaining 3 books: $$ 3! = 6 $$.
+- Fix 2 math books at the start: $3 \times 2 = 6$.
+- Fix 2 physics books at the end: $2 \times 1 = 2$.
+- Arrange the remaining 3 books: $3! = 6$.
 
 Total arrangements:
 $$6 \times 2 \times 6 = \boxed{72}$$
@@ -190,7 +190,7 @@ $$6 \times 2 \times 6 = \boxed{72}$$
 #### **Solution:**
 - Total cards: 52.
 - Cards excluded: 4 aces + 1 king of spades = 5.
-- Remaining cards: $$ 52 - 5 = 47 $$.
+- Remaining cards: $52 - 5 = 47$.
 
 Probability:
 $$P(\text{Neither Ace nor King of Spades}) = \boxed{\frac{47}{52}}$$
@@ -201,9 +201,9 @@ $$P(\text{Neither Ace nor King of Spades}) = \boxed{\frac{47}{52}}$$
 
 ### **17-20. Emergency Calls Distribution**
 
-| $$ X $$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+| $X$ | 0 | 1 | 2 | 3 | 4 | 5 | 6 |
 |-------|---|---|---|---|---|---|---|
-| $$ P(X) $$ | 0.05 | 0.10 | 0.20 | 0.30 | 0.20 | 0.10 | 0.05 |
+| $P(X)$ | 0.05 | 0.10 | 0.20 | 0.30 | 0.20 | 0.10 | 0.05 |
 
 #### **18. What is the probability the station receives at least 5 calls?**
 
