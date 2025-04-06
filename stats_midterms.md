@@ -1,4 +1,4 @@
-Below is the updated Markdown file where **all fractions using `/frac` are boxed** for consistency, including those in solutions and answers.
+Below is the updated Markdown file where **all fractions in questions 28–30 are boxed**, in addition to the previously boxed fractions throughout the document.
 
 ---
 
@@ -339,7 +339,7 @@ The most common sum is $ \boxed{5} $.
 
 Factorize:
 $$
-\frac{(n+2)(n+1)n! \cdot (n-3)!}{(n+1)n!} = (n+2)(n-3)!
+\frac{(n+2)(n+1)n! \cdot (n-3)!}{(n+1)n!} = \boxed{\frac{(n+2)(n-3)!}{1}} = \boxed{(n+2)(n-3)!}
 $$
 
 #### **Answer:** $\boxed{(n+2)(n-3)!}$
@@ -350,7 +350,7 @@ $$
 
 Combine terms under a common denominator:
 $$
-\frac{1}{(n-1)!} + \frac{1}{n+1} = \frac{n+1 + (n-1)!}{(n-1)!(n+1)}
+\frac{1}{(n-1)!} + \frac{1}{n+1} = \boxed{\frac{n+1 + (n-1)!}{(n-1)!(n+1)}}
 $$
 
 #### **Answer:** $\boxed{\frac{n+1 + (n-1)!}{(n-1)!(n+1)}}$
@@ -361,7 +361,7 @@ $$
 
 Factorize:
 $$
-\frac{(n+1)n!}{(n+2)(n+1)n! + n!} = \frac{1}{n+2 + 1} = \boxed{\frac{1}{n+3}}
+\frac{(n+1)n!}{(n+2)(n+1)n! + n!} = \boxed{\frac{1}{n+2 + 1}} = \boxed{\frac{1}{n+3}}
 $$
 
 #### **Answer:** $\boxed{\frac{1}{n+3}}$
@@ -379,4 +379,4 @@ $$
 
 --- 
 
-This concludes the solutions and answers for the midterm reviewer with all fractions boxed.
+This concludes the solutions and answers for the midterm reviewer with all fractions boxed, including those in questions 28–30.
