@@ -315,7 +315,7 @@ $$\frac{(n+2)(n+1)n! \cdot (n-3)!}{(n+1)n!} = (n+2)(n-3)!$$
 
 ---
 
-### **29. Simplify $ \frac{1}{(n-1)!} + \frac{1}{n+1} $.**
+### **29. Simplify $ \boxed{\frac{1}{(n-1)!} + \frac{1}{n+1}} $.**
 
 Combine terms under a common denominator:
 
@@ -325,7 +325,7 @@ $$\frac{1}{(n-1)!} + \frac{1}{n+1} = \frac{n+1 + (n-1)!}{(n-1)!(n+1)}$$
 
 ---
 
-### **30. Simplify** $ \frac{(n+1)!}{(n+2)! + n!} $**.**
+### **30. Simplify $ \boxed{\frac{(n+1)!}{(n+2)! + n!}} $.**
 
 Factorize:
 
