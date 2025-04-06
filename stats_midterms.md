@@ -150,7 +150,7 @@ $$\text{Total Ways} = 5 \times 4 = \boxed{20}$$
 
 ---
 
-### **12. This is the value of $ P(12, 7) $.**
+### **12. This is the value of P(12, 7).**
 
 #### **Solution:**
 Permutation formula: $ P(n, r) = \frac{n!}{(n-r)!} $
@@ -161,7 +161,7 @@ $$P(12, 7) = \frac{12!}{(12-7)!} = \frac{12!}{5!} = 12 \times 11 \times 10 \time
 
 ---
 
-### **13. This is the value of $ C(9, 6) $.**
+### **13. This is the value of C(9, 6).**
 
 #### **Solution:**
 Combination formula: $ C(n, r) = \frac{n!}{r!(n-r)!} $
@@ -301,7 +301,7 @@ $$P(\text{Neither Green nor White}) = \boxed{\frac{7}{10}}$$
 
 ### **27. Which sum has the best chance of appearing when two tetrahedral dice are rolled?**
 
-The most common sum is $ \boxed{5} $.
+The most common sum is 5.
 
 ---
 
@@ -325,7 +325,7 @@ $$\frac{1}{(n-1)!} + \frac{1}{n+1} = \frac{n+1 + (n-1)!}{(n-1)!(n+1)}$$
 
 ---
 
-### **30. Simplify $ \frac{(n+1)!}{(n+2)! + n!} $.**
+### **30. Simplify** $ \frac{(n+1)!}{(n+2)! + n!} $**.**
 
 Factorize:
 
