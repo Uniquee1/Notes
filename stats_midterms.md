@@ -17,8 +17,8 @@ Below is the markdown file containing solutions and answers for each question in
 ### **1. Two cards are drawn from a deck of 52 cards one after another with replacement. What is the probability the first card is an ace of spades and the second is not a diamond card?**
 
 #### **Solution:**
-- Probability of drawing the ace of spades (first card): $ {\frac{1}{52}} $
-- Probability of not drawing a diamond card (second card): $ {\frac{39}{52} = \frac{3}{4}} $
+- Probability of drawing the ace of spades (first card): $ \frac{1}{52} $
+- Probability of not drawing a diamond card (second card): $ \frac{39}{52} = \frac{3}{4} $
 
 Since the draws are independent:
 $$
