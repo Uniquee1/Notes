@@ -335,7 +335,7 @@ The most common sum is $ \boxed{5} $.
 
 ---
 
-### **28. Simplify $ \frac{(n+2)!(n-3)!}{(n+1)!} $.**
+### **28. Simplify $$ \frac{(n+2)!(n-3)!}{(n+1)!} $$.**
 
 Factorize:
 $$
@@ -346,7 +346,7 @@ $$
 
 ---
 
-### **29. Simplify $ \frac{1}{(n-1)!} + \frac{1}{n+1} $.**
+### **29. Simplify $\boxed{\frac{1}{(n-1)!} + \frac{1}{n+1}}$.**
 
 Combine terms under a common denominator:
 $$
