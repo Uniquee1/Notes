@@ -24,7 +24,8 @@ $= \frac{2}{3} \cdot 5 \sqrt{5} - 10$
 $= \frac{2 \cdot 5 \sqrt{5}}{3} - 10$
 $= \frac{10\sqrt{5}}{3} - 10$
 $= \frac{10\sqrt{5} - 30}{3}$
-$= \frac{10\sqrt{5} - 30}{3}$
+
+**Answer: $\frac{10\sqrt{5} - 30}{3}$**
 
 ## Problem 2: $\int_1^3 \frac{2x + 3x^2}{x} \, dx$
 
@@ -48,7 +49,8 @@ $= 6 + \frac{27}{2} - \frac{7}{2}$
 $= 6 + \frac{27 - 7}{2}$
 $= 6 + \frac{20}{2}$
 $= 6 + 10$
-$= 16$
+
+**Answer: $16$**
 
 ## Problem 3: $\int_0^{\pi/2} 2\sin 2x \, dx$
 
@@ -68,7 +70,8 @@ $= (-\cos 2 \cdot \frac{\pi}{2}) - (-\cos 2 \cdot 0)$
 $= (-\cos \pi) - (-\cos 0)$
 $= (-(-1)) - (-1)$
 $= 1 + 1$
-$= 2$
+
+**Answer: $2$**
 
 ## Problem 4: $\int_1^e \frac{x+1}{x} \, dx$
 
@@ -86,7 +89,8 @@ $\int_1^e \frac{x+1}{x} \, dx = \left[ x + \ln|x| \right]_1^e$
 $= (e + \ln|e|) - (1 + \ln|1|)$
 $= (e + 1) - (1 + 0)$
 $= e + 1 - 1$
-$= e$
+
+**Answer: $e$**
 
 ## Problem 5: $\int_{-1}^1 e^{2x+1} \, dx$
 
@@ -109,12 +113,12 @@ $\int_{-1}^1 e^{2x+1} \, dx = \left[ \frac{e}{2} e^{2x} \right]_{-1}^1$
 $= \frac{e}{2} (e^{2 \cdot 1} - e^{2 \cdot (-1)})$
 $= \frac{e}{2} (e^2 - e^{-2})$
 $= \frac{e}{2} \cdot \frac{e^4 - 1}{e^2}$
-$= \frac{e}{2} \cdot \frac{e^4 - 1}{e^2}$
-$= \frac{e}{2} \cdot \frac{e^4 - 1}{e^2}$
 $= \frac{e(e^4 - 1)}{2e^2}$
 $= \frac{e^3 - e^{-1}}{2}$
 $= \frac{e^3 - \frac{1}{e}}{2}$
 $= \frac{e^4 - 1}{2e}$
+
+**Answer: $\frac{e^4 - 1}{2e}$**
 
 ## Problem 6: $\int_0^{\pi/2} \cos^2 x \, dx$
 
@@ -131,7 +135,8 @@ $\int_0^{\pi/2} \cos^2 x \, dx = \left[ \frac{x}{2} + \frac{\sin 2x}{4} \right]_
 $= \left( \frac{\pi/2}{2} + \frac{\sin 2 \cdot \pi/2}{4} \right) - \left( \frac{0}{2} + \frac{\sin 2 \cdot 0}{4} \right)$
 $= \left( \frac{\pi}{4} + \frac{\sin \pi}{4} \right) - \left( 0 + 0 \right)$
 $= \frac{\pi}{4} + \frac{0}{4}$
-$= \frac{\pi}{4}$
+
+**Answer: $\frac{\pi}{4}$**
 
 ## Problem 7: $\int_0^{\pi/4} \frac{1}{\cos^2 2x} \, dx$
 
@@ -155,7 +160,7 @@ $= \frac{1}{2} (\infty - 0)$
 Note: Since $\tan(\frac{\pi}{2})$ is undefined (approaches infinity), we need to be careful. This integral actually diverges, but if we evaluate the limit as we approach $\frac{\pi}{4}$ from below, we get:
 $\lim_{t \to \pi/4^-} \int_0^t \frac{1}{\cos^2 2x} \, dx = \frac{1}{2} \lim_{t \to \pi/4^-} \tan 2t = \infty$
 
-Therefore, this improper integral diverges.
+**Answer: The integral diverges**
 
 ## Problem 8: $\int_0^{\pi/4} \tan^2 2x \, dx$
 
@@ -179,7 +184,9 @@ $\int_0^{\pi/4} \tan^2 2x \, dx = \left[ \frac{1}{2} \tan 2x - x \right]_0^{\pi/
 $= \left( \frac{1}{2} \tan 2 \cdot \pi/4 - \pi/4 \right) - \left( \frac{1}{2} \tan 2 \cdot 0 - 0 \right)$
 $= \left( \frac{1}{2} \tan \pi/2 - \pi/4 \right) - (0 - 0)$
 
-Again, $\tan(\frac{\pi}{2})$ is undefined, so we need to take the limit as $x$ approaches $\frac{\pi}{4}$ from below. This integral also diverges.
+Again, $\tan(\frac{\pi}{2})$ is undefined, so we need to take the limit as $x$ approaches $\frac{\pi}{4}$ from below.
+
+**Answer: The integral diverges**
 
 ## Problem 9: $\int_0^{\pi} \sin^2 \frac{1}{2}x \, dx$
 
@@ -195,7 +202,8 @@ $\int_0^{\pi} \sin^2 \frac{1}{2}x \, dx = \left[ \frac{1}{2} (x - \sin x) \right
 $= \frac{1}{2} [(\pi - \sin \pi) - (0 - \sin 0)]$
 $= \frac{1}{2} [(\pi - 0) - (0 - 0)]$
 $= \frac{1}{2} \pi$
-$= \frac{\pi}{2}$
+
+**Answer: $\frac{\pi}{2}$**
 
 ## Problem 10: $\int_{-2}^2 2\sin^2 x + 2\cos^2 x \, dx$
 
@@ -213,7 +221,8 @@ $\int_{-2}^2 2\sin^2 x + 2\cos^2 x \, dx = \left[ 2x \right]_{-2}^2$
 $= 2 \cdot 2 - 2 \cdot (-2)$
 $= 4 - (-4)$
 $= 4 + 4$
-$= 8$
+
+**Answer: $8$**
 
 ## Problem 11: $\int_0^{\pi/2} \cos^3 x \, dx$
 
@@ -234,7 +243,8 @@ $= \left( \sin \frac{\pi}{2} - \frac{\sin^3 \frac{\pi}{2}}{3} \right) - \left( \
 $= \left( 1 - \frac{1^3}{3} \right) - \left( 0 - \frac{0^3}{3} \right)$
 $= \left( 1 - \frac{1}{3} \right) - 0$
 $= \frac{3}{3} - \frac{1}{3}$
-$= \frac{2}{3}$
+
+**Answer: $\frac{2}{3}$**
 
 ## Problem 12: $\int_0^{\pi/4} \tan^3 x \, dx$
 
@@ -261,3 +271,5 @@ $= \left( \frac{1^2}{2} - \ln|\sqrt{2}| \right) - \left( \frac{0^2}{2} - \ln|1| 
 $= \left( \frac{1}{2} - \ln\sqrt{2} \right) - (0 - 0)$
 $= \frac{1}{2} - \frac{1}{2}\ln 2$
 $= \frac{1}{2}(1 - \ln 2)$
+
+**Answer: $\frac{1}{2}(1 - \ln 2)$**
