@@ -1,127 +1,256 @@
-# Antiderivative Solutions
-
-## Problems 1–10
-
-### 1. ∫ (2/3)x³ - 4x dx
-**Solution:**  
-∫ (2/3)x³ dx - ∫ 4x dx = (2/3)(x⁴/4) - 4(x²/2) = (1/6)x⁴ - 2x² + C  
-**Answer:**  
-(1/6)x⁴ - 2x² + C
+Here is your cleaned-up and well-formatted Markdown file with clear sectioning, consistent math formatting, and improved readability:
 
 ---
 
-### 2. ∫ (x + √x) dx  
-**Solution:**  
-√x = x^(1/2) ⇒ ∫ x dx + ∫ x^(1/2) dx = (1/2)x² + (2/3)x^(3/2) + C  
-**Answer:**  
-(1/2)x² + (2/3)x^(3/2) + C
+# 📘 Antiderivative Solutions
+
+## ✅ Problems 1–10
 
 ---
 
-### 3. ∫ (4 cos(4x) + 9 sin(3x)) dx  
-**Solution:**  
-= ∫ 4 cos(4x) dx + ∫ 9 sin(3x) dx  
-= 4(1/4) sin(4x) - 9(1/3) cos(3x) + C  
-= sin(4x) - 3 cos(3x) + C  
-**Answer:**  
-sin(4x) - 3 cos(3x) + C
+### 1. $\int \left(\frac{2}{3}x^3 - 4x\right)\, dx$
+
+**Solution:**
+
+$$
+\int \frac{2}{3}x^3\, dx - \int 4x\, dx = \frac{2}{3} \cdot \frac{x^4}{4} - 4 \cdot \frac{x^2}{2} = \frac{1}{6}x^4 - 2x^2 + C
+$$
+
+**Answer:**
+
+$$
+\frac{1}{6}x^4 - 2x^2 + C
+$$
 
 ---
 
-### 4. ∫ (6 - x)/(5x) dx  
-**Solution:**  
-= (1/5) ∫ (6/x - 1) dx = (1/5)(6 ln|x| - x) + C  
-**Answer:**  
-(6 ln|x| - x)/5 + C
+### 2. $\int \left(x + \sqrt{x}\right)\, dx$
+
+**Solution:**
+
+$$
+\sqrt{x} = x^{1/2} \Rightarrow \int x\, dx + \int x^{1/2}\, dx = \frac{1}{2}x^2 + \frac{2}{3}x^{3/2} + C
+$$
+
+**Answer:**
+
+$$
+\frac{1}{2}x^2 + \frac{2}{3}x^{3/2} + C
+$$
 
 ---
 
-### 5. ∫ e^(-5x) dx  
-**Solution:**  
-= (1/-5) e^(-5x) + C  
-**Answer:**  
-(-1/5)e^(-5x) + C
+### 3. $\int \left(4\cos(4x) + 9\sin(3x)\right)\, dx$
+
+**Solution:**
+
+$$
+= \int 4\cos(4x)\, dx + \int 9\sin(3x)\, dx \\
+= \sin(4x) - 3\cos(3x) + C
+$$
+
+**Answer:**
+
+$$
+\sin(4x) - 3\cos(3x) + C
+$$
 
 ---
 
-### 6. ∫ (5 - x²)/x dx  
-**Solution:**  
-= ∫ 5/x dx - ∫ x dx = 5 ln|x| - (1/2)x² + C  
-**Answer:**  
-5 ln|x| - (1/2)x² + C
+### 4. $\int \frac{6 - x}{5x} \, dx$
+
+**Solution:**
+
+$$
+= \frac{1}{5} \int \left(\frac{6}{x} - 1\right)\, dx = \frac{1}{5}(6\ln|x| - x) + C
+$$
+
+**Answer:**
+
+$$
+\frac{6\ln|x| - x}{5} + C
+$$
 
 ---
 
-### 7. ∫ sec²(5x) dx  
-**Solution:**  
-= (1/5) tan(5x) + C  
-**Answer:**  
-(1/5) tan(5x) + C
+### 5. $\int e^{-5x}\, dx$
+
+**Solution:**
+
+$$
+= \frac{1}{-5}e^{-5x} + C
+$$
+
+**Answer:**
+
+$$
+-\frac{1}{5}e^{-5x} + C
+$$
 
 ---
 
-### 8. ∫ sin(-3x) dx  
-**Solution:**  
-= -1/3 cos(-3x) + C = -1/3 cos(3x) + C  
-**Answer:**  
-(-1/3) cos(3x) + C
+### 6. $\int \frac{5 - x^2}{x} \, dx$
+
+**Solution:**
+
+$$
+= \int \frac{5}{x} \, dx - \int x\, dx = 5\ln|x| - \frac{1}{2}x^2 + C
+$$
+
+**Answer:**
+
+$$
+5\ln|x| - \frac{1}{2}x^2 + C
+$$
 
 ---
 
-### 9. ∫ 5e^x dx  
-**Solution:**  
-= 5e^x + C  
-**Answer:**  
+### 7. $\int \sec^2(5x)\, dx$
+
+**Solution:**
+
+$$
+= \frac{1}{5} \tan(5x) + C
+$$
+
+**Answer:**
+
+$$
+\frac{1}{5} \tan(5x) + C
+$$
+
+---
+
+### 8. $\int \sin(-3x)\, dx$
+
+**Solution:**
+
+$$
+= -\frac{1}{3} \cos(-3x) + C = -\frac{1}{3} \cos(3x) + C
+$$
+
+**Answer:**
+
+$$
+-\frac{1}{3} \cos(3x) + C
+$$
+
+---
+
+### 9. $\int 5e^x\, dx$
+
+**Solution:**
+
+$$
+= 5e^x + C
+$$
+
+**Answer:**
+
+$$
 5e^x + C
+$$
 
 ---
 
-### 10. ∫ x√x dx  
-**Solution:**  
-= ∫ x * x^(1/2) dx = ∫ x^(3/2) dx = (2/5)x^(5/2) + C  
-**Answer:**  
-(2/5)x^(5/2) + C
+### 10. $\int x\sqrt{x}\, dx$
+
+**Solution:**
+
+$$
+= \int x \cdot x^{1/2}\, dx = \int x^{3/2}\, dx = \frac{2}{5}x^{5/2} + C
+$$
+
+**Answer:**
+
+$$
+\frac{2}{5}x^{5/2} + C
+$$
 
 ---
 
-## Problems 11–15 (Using Substitution)
-
-### 11. ∫ (1 - x)^15 dx  
-**Substitution:** u = 1 - x ⇒ du = -dx  
-= -∫ u^15 du = -(u^16 / 16) + C = -((1 - x)^16 / 16) + C  
-**Answer:**  
--((1 - x)^16) / 16 + C
+## ✅ Problems 11–15 (Using Substitution)
 
 ---
 
-### 12. ∫ (ln x)² / x dx  
-**Substitution:** u = ln x ⇒ du = (1/x) dx  
-= ∫ u² du = (u³ / 3) + C = (ln x)³ / 3 + C  
-**Answer:**  
-(ln x)³ / 3 + C
+### 11. $\int (1 - x)^{15} dx$
+
+**Substitution:** Let $u = 1 - x \Rightarrow du = -dx$
+
+$$
+= -\int u^{15} \, du = -\frac{u^{16}}{16} + C = -\frac{(1 - x)^{16}}{16} + C
+$$
+
+**Answer:**
+
+$$
+-\frac{(1 - x)^{16}}{16} + C
+$$
 
 ---
 
-### 13. ∫ e^x * e^(e^x) dx  
-**Substitution:** u = e^x ⇒ du = e^x dx  
-= ∫ e^u du = e^u + C = e^(e^x) + C  
-**Answer:**  
-e^(e^x) + C
+### 12. $\int \frac{(\ln x)^2}{x} dx$
+
+**Substitution:** Let $u = \ln x \Rightarrow du = \frac{1}{x} dx$
+
+$$
+= \int u^2 \, du = \frac{u^3}{3} + C = \frac{(\ln x)^3}{3} + C
+$$
+
+**Answer:**
+
+$$
+\frac{(\ln x)^3}{3} + C
+$$
 
 ---
 
-### 14. ∫ sin(x) * cos²(x) dx  
-**Substitution:** u = cos(x) ⇒ du = -sin(x) dx  
-= -∫ u² du = -(u³ / 3) + C = -(cos³(x)) / 3 + C  
-**Answer:**  
--(cos³(x))/3 + C
+### 13. $\int e^x \cdot e^{e^x} dx$
+
+**Substitution:** Let $u = e^x \Rightarrow du = e^x dx$
+
+$$
+= \int e^u \, du = e^u + C = e^{e^x} + C
+$$
+
+**Answer:**
+
+$$
+e^{e^x} + C
+$$
 
 ---
 
-### 15. ∫ (2x - 1) √(x² - x) dx  
-**Substitution:** u = x² - x ⇒ du = (2x - 1) dx  
-= ∫ √u du = ∫ u^(1/2) du = (2/3) u^(3/2) + C = (2/3)(x² - x)^(3/2) + C  
-**Answer:**  
-(2/3)(x² - x)^(3/2) + C
+### 14. $\int \sin(x) \cdot \cos^2(x)\, dx$
+
+**Substitution:** Let $u = \cos(x) \Rightarrow du = -\sin(x)\, dx$
+
+$$
+= -\int u^2\, du = -\frac{u^3}{3} + C = -\frac{\cos^3(x)}{3} + C
+$$
+
+**Answer:**
+
+$$
+-\frac{\cos^3(x)}{3} + C
+$$
 
 ---
+
+### 15. $\int (2x - 1)\sqrt{x^2 - x}\, dx$
+
+**Substitution:** Let $u = x^2 - x \Rightarrow du = (2x - 1)\, dx$
+
+$$
+= \int \sqrt{u}\, du = \int u^{1/2}\, du = \frac{2}{3}u^{3/2} + C = \frac{2}{3}(x^2 - x)^{3/2} + C
+$$
+
+**Answer:**
+
+$$
+\frac{2}{3}(x^2 - x)^{3/2} + C
+$$
+
+---
+
+Let me know if you'd like this exported to `.pdf`, `.md`, or `.docx` format.
