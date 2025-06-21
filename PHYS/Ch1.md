@@ -152,176 +152,165 @@
 
 ---
 
-# Physics Activities Compilation  
-## Chapters: 1.3 – 1.4  
-### Topics: Uncertainty & Error Analysis, Graphical Analysis  
-
----
-
-## 📊 Activity 1.3 – Uncertainty & Error Analysis  
-*(From: Gen_Phys_1.3_Uncertainty_Error_Analysis.pdf)*
-
-### Problem Solving  
+# Physics Activity – Chapter 1.3  
+## Topic: Uncertainty and Error Analysis  
 
 ---
 
 #### Question 1  
-**A projectile travels 18.0 ± 0.1 m in 3.0 ± 0.1 s. Estimate its speed.**
+**The precision of a multimeter is 0.01 A. If the multimeter shows that the amount of current is 6.0 A, this is the measurement of current with uncertainty.**  
+a. 6.0 ± 0.01 A  
+b. 6.0 ± 0.1 A  
+c. 6.0 ± 0.001 A  
+d. 6.0 ± 1 A  
 
 **Solution:**  
-Speed = distance / time  
-Estimate of speed = 18.0 / 3.0 = 6.0 m/s  
-
-Fractional uncertainty:  
-- For distance: \( \frac{0.1}{18.0} = 0.0056 \)  
-- For time: \( \frac{0.1}{3.0} = 0.0333 \)  
-
-Total fractional uncertainty = \( 0.0056 + 0.0333 = 0.0389 \)  
-Uncertainty in speed = \( 6.0 \times 0.0389 = 0.2334 \, \text{m/s} \approx 0.24 \, \text{m/s} \)  
-
-**Final Answer:**  
-✅ **6.00 ± 0.24 m/s**
+Precision = 0.01 A → uncertainty is ±0.01 A  
+Measurement = estimate ± uncertainty  
+✅ **Answer: a**
 
 ---
 
 #### Question 2  
-**A rectangular lot has a length of 10.0 ± 0.1 m and a width of 5.0 ± 0.1 m. Compute the perimeter.**
+**The divisions of measurement shown on a meter stick are cm and mm. This is the precision of the meter stick.**  
+a. ±1 cm  
+b. ±0.5 cm  
+c. ±1 mm  
+d. ±10 mm  
+
+**Solution:**  
+A meter stick typically measures to the nearest millimeter → precision = ±1 mm  
+✅ **Answer: c**
+
+---
+
+#### Question 3  
+**The mass of an iron ore is taken using a digital weighing device. It says that the mass is 1.5 kg. The precision of the device is ±100 g. This is the mass with uncertainty.**  
+a. 1.5 ± 100 kg  
+b. 1.5 ± 100 g  
+c. 1.5 kg ± 100 g  
+d. 1.5 ± 0.1 kg  
+
+**Solution:**  
+Convert precision to kg: ±100 g = ±0.1 kg  
+Mass = 1.5 kg ± 0.1 kg  
+✅ **Answer: d**
+
+---
+
+#### Question 4  
+**The density of an iron ore is 6.87 ± 0.20 g/mL. This is true.**  
+a. The true density of the ore is either 6.67 g/mL or 7.07 g/mL.  
+b. The density is constant at 6.87 g/mL.  
+c. The density cannot be determined within the given range.  
+d. The uncertainty is negligible.  
+
+**Solution:**  
+Uncertainty means the true value lies within ±0.20 g/mL → range: 6.67 to 7.07 g/mL  
+✅ **Answer: a**
+
+---
+
+#### Question 5  
+**The relative uncertainty of a measurement is 5%. If the measured value is 200 g, this is the absolute uncertainty.**  
+a. ±10 g  
+b. ±20 g  
+c. ±5 g  
+d. ±2 g  
+
+**Solution:**  
+Absolute uncertainty = Relative uncertainty × Measured value  
+= 5% × 200 = 0.05 × 200 = 10 g  
+✅ **Answer: a**
+
+---
+
+#### Question 6  
+**The speed of a car is measured as 30.0 ± 0.5 m/s. This is the relative uncertainty.**  
+a. 1.67%  
+b. 0.5%  
+c. 5%  
+d. 16.7%  
+
+**Solution:**  
+Relative uncertainty = Absolute uncertainty ÷ Measured value  
+= 0.5 ÷ 30.0 = 0.0167 ≈ 1.67%  
+✅ **Answer: a**
+
+---
+
+#### Question 7  
+**A rectangular lot has a length of 10.0 ± 0.1 m and a width of 5.0 ± 0.1 m. Compute the perimeter.**  
+a. 30.0 ± 0.2 m  
+b. 30.0 ± 0.4 m  
+c. 30.0 ± 0.1 m  
+d. 30.0 ± 0.3 m  
 
 **Solution:**  
 Perimeter = \( 2 \times (\text{length} + \text{width}) \)  
 Estimate of perimeter = \( 2 \times (10.0 + 5.0) = 30.0 \, \text{m} \)  
 
-Absolute uncertainties add directly:  
-\( \Delta P = 2 \times (0.1 + 0.1) = 0.4 \, \text{m} \)  
+Uncertainty in perimeter:  
+Absolute uncertainties add directly → \( 0.1 + 0.1 = 0.2 \, \text{m} \)  
 
-**Final Answer:**  
-✅ **30.0 ± 0.4 m**
+✅ **Answer: a**
 
 ---
 
-#### Question 3  
-**The mass of a crystal is 3.52 ± 0.01 g, and its volume is 1.34 ± 0.02 mL. Compute the density with uncertainty.**
+#### Question 8  
+**The mass of a crystal is 3.52 ± 0.01 g, and its volume is 1.34 ± 0.02 mL. Compute the density of the crystal with uncertainty.**  
+a. 2.63 ± 0.05 g/mL  
+b. 2.63 ± 0.01 g/mL  
+c. 2.63 ± 0.10 g/mL  
+d. 2.63 ± 0.02 g/mL  
 
 **Solution:**  
-Density = mass / volume  
-Estimate of density = \( \frac{3.52}{1.34} = 2.63 \, \text{g/mL} \)  
+Density = Mass ÷ Volume  
+\( D = 3.52 ÷ 1.34 ≈ 2.63 \, \text{g/mL} \)  
 
 Fractional uncertainties:  
-- For mass: \( \frac{0.01}{3.52} = 0.0028 \)  
-- For volume: \( \frac{0.02}{1.34} = 0.0149 \)  
+- For mass: \( \frac{0.01}{3.52} ≈ 0.0028 \)  
+- For volume: \( \frac{0.02}{1.34} ≈ 0.0149 \)  
 
-Total fractional uncertainty = \( 0.0028 + 0.0149 = 0.0177 \)  
-Uncertainty in density = \( 2.63 \times 0.0177 = 0.0466 \, \text{g/mL} \approx 0.05 \, \text{g/mL} \)  
+Total fractional uncertainty = \( 0.0028 + 0.0149 ≈ 0.0177 \)  
+Uncertainty in density = \( 2.63 × 0.0177 ≈ 0.05 \, \text{g/mL} \)  
 
-**Final Answer:**  
-✅ **2.63 ± 0.05 g/mL**
+✅ **Answer: a**
 
 ---
 
-#### Question 4  
-**The municipal government collected rainwater samples from five stations. The volumes (in cc) are: 3.5, 3.0, 4.1, 2.9, and 2.7. Find the mean, variance, standard deviation, and write the result with random error.**
+#### Question 9  
+**The density of a solid iron sphere is 3.00 g/mL ± 1%. What is the absolute uncertainty?**  
+a. ±0.03 g/mL  
+b. ±0.01 g/mL  
+c. ±0.1 g/mL  
+d. ±0.3 g/mL  
 
 **Solution:**  
-Mean = \( \frac{\text{sum of measurements}}{\text{number of measurements}} \)  
-\( \bar{x} = \frac{3.5 + 3.0 + 4.1 + 2.9 + 2.7}{5} = 3.24 \, \text{cc} \)  
-
-Variance:  
-\( \sigma^2 = \frac{\sum (x_i - \bar{x})^2}{n} \)  
-\( \sigma^2 = \frac{(3.5 - 3.24)^2 + (3.0 - 3.24)^2 + (4.1 - 3.24)^2 + (2.9 - 3.24)^2 + (2.7 - 3.24)^2}{5} \)  
-\( \sigma^2 = \frac{0.0676 + 0.0576 + 0.7396 + 0.1156 + 0.2916}{5} = 0.2544 \, \text{cc}^2 \)  
-
-Standard deviation:  
-\( \sigma = \sqrt{0.2544} = 0.50 \, \text{cc} \)  
-
-**Final Answer:**  
-✅ **3.24 ± 0.50 cc**
+Absolute uncertainty = Relative uncertainty × Measured value  
+= 1% × 3.00 = 0.01 × 3.00 = 0.03 g/mL  
+✅ **Answer: a**
 
 ---
 
-#### Question 5  
-**Answer the following questions based on the bar graph with error bars:**  
-a. Which station has the least average rainfall?  
-b. Which station has the largest average rainfall?  
-c. Which station has the least random error?  
-d. Which station has the largest random error?  
+#### Question 10  
+**The displacement of an object is 20.0 ± 0.2 m, and the time taken is 5.0 ± 0.1 s. Compute the speed with uncertainty.**  
+a. 4.0 ± 0.1 m/s  
+b. 4.0 ± 0.2 m/s  
+c. 4.0 ± 0.04 m/s  
+d. 4.0 ± 0.05 m/s  
 
 **Solution:**  
-Assume the bar graph data is as follows:  
-- Station A: 3.0 ± 0.2 cc  
-- Station B: 4.5 ± 0.1 cc  
-- Station C: 2.8 ± 0.3 cc  
-- Station D: 5.0 ± 0.4 cc  
-- Station E: 2.5 ± 0.2 cc  
+Speed = Displacement ÷ Time  
+Estimate of speed = \( 20.0 ÷ 5.0 = 4.0 \, \text{m/s} \)  
 
-a. Least average rainfall: Station E (2.5 cc)  
-b. Largest average rainfall: Station D (5.0 cc)  
-c. Least random error: Station B (±0.1 cc)  
-d. Largest random error: Station D (±0.4 cc)  
+Fractional uncertainties:  
+- For displacement: \( \frac{0.2}{20.0} = 0.01 \)  
+- For time: \( \frac{0.1}{5.0} = 0.02 \)  
 
-**Final Answers:**  
-✅ **a. Station E**  
-✅ **b. Station D**  
-✅ **c. Station B**  
-✅ **d. Station D**
+Total fractional uncertainty = \( 0.01 + 0.02 = 0.03 \)  
+Uncertainty in speed = \( 4.0 × 0.03 = 0.12 ≈ 0.1 \, \text{m/s} \)  
+
+✅ **Answer: a**
 
 ---
-
-## 📈 Activity 1.4 – Graphical Analysis  
-*(From: Gen_Phys_1.4_Graphical_analyisis.pdf)*
-
-### Line-of-Best-Fit  
-
----
-
-#### Question 1  
-**Study the scatter plot below and answer the following:**  
-a. Draw \( l_1 \) (line-of-best-fit) and write its equation.  
-b. Draw \( l_2 \) (less steep line) and \( l_3 \) (steeper line), and write their equations.  
-c. Compute the uncertainty for slope \( m \) and y-intercept \( b \).  
-d. Write the complete equation of the line-of-best-fit with uncertainty.  
-
-**Solution:**  
-Assume the scatter plot data is linear, and the points suggest:  
-- \( l_1 \): Passes through (5, 10) and (12, 20)  
-Slope of \( l_1 \):  
-\( m_1 = \frac{20 - 10}{12 - 5} = \frac{10}{7} \approx 1.43 \)  
-y-intercept of \( l_1 \):  
-Using \( y = mx + b \), substitute (5, 10):  
-\( 10 = 1.43(5) + b \Rightarrow b = 10 - 7.15 = 2.85 \)  
-Equation of \( l_1 \):  
-\( y = 1.43x + 2.85 \)  
-
-For \( l_2 \) (less steep):  
-Passes through (5, 10) and (9, 15)  
-Slope of \( l_2 \):  
-\( m_2 = \frac{15 - 10}{9 - 5} = \frac{5}{4} = 1.25 \)  
-y-intercept of \( l_2 \):  
-Using \( y = mx + b \), substitute (5, 10):  
-\( 10 = 1.25(5) + b \Rightarrow b = 10 - 6.25 = 3.75 \)  
-Equation of \( l_2 \):  
-\( y = 1.25x + 3.75 \)  
-
-For \( l_3 \) (steeper):  
-Passes through (5, 10) and (11, 20)  
-Slope of \( l_3 \):  
-\( m_3 = \frac{20 - 10}{11 - 5} = \frac{10}{6} \approx 1.67 \)  
-y-intercept of \( l_3 \):  
-Using \( y = mx + b \), substitute (5, 10):  
-\( 10 = 1.67(5) + b \Rightarrow b = 10 - 8.35 = 1.65 \)  
-Equation of \( l_3 \):  
-\( y = 1.67x + 1.65 \)  
-
-Uncertainty in slope:  
-\( \Delta m = \frac{m_3 - m_2}{2} = \frac{1.67 - 1.25}{2} = 0.21 \)  
-
-Uncertainty in y-intercept:  
-\( \Delta b = \frac{b_3 - b_2}{2} = \frac{1.65 - 3.75}{2} = 1.05 \)  
-
-**Final Answer:**  
-✅ **Line-of-best-fit with uncertainty: \( y = (1.43 \pm 0.21)x + (2.85 \pm 1.05) \)**
-
----
-
-## ✅ Final Answer Keys
-
-### Activity 1.3:
