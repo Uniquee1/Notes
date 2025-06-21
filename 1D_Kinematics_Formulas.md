@@ -162,111 +162,143 @@ $a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}
 
 ---
 
-# Solution to Multiple Choice Questions
 
-## I. Multiple Choice. Choose the letter of the best answer.
-
-1. **The position of an object in meters along a straight line as a function of time is given by $ x(t) = t^3 - 5t^2 + 4t $. This is the object's instantaneous velocity as a function of time.**
-
-   **Solution:** The instantaneous velocity $ v(t) $ is the first derivative of the position function $ x(t) $.
-   $$
-   v(t) = \frac{dx}{dt} = \frac{d}{dt}(t^3 - 5t^2 + 4t) = 3t^2 - 10t + 4
-   $$
-   **Answer:** b
-
-2. **In #1, this is the object's instantaneous velocity when $ t = 2 $ s.**
-
-   **Solution:** Using the velocity function $ v(t) = 3t^2 - 10t + 4 $, substitute $ t = 2 $:
-   $$
-   v(2) = 3(2)^2 - 10(2) + 4 = 3(4) - 20 + 4 = 12 - 20 + 4 = -4 \, \text{m/s}
-   $$
-   **Answer:** a
-
-3. **The velocity in m/s along a straight line of a particle as a function of time is given by $ v(t) = 3t^2 - 8t $. At $ t = 2 $ seconds, this is true.**
-
-   **Solution:** Substitute $ t = 2 $ into the velocity function:
-   $$
-   v(2) = 3(2)^2 - 8(2) = 3(4) - 16 = 12 - 16 = -4 \, \text{m/s}
-   $$
-   Since the velocity is negative, the direction of the object is to the left.
-   **Answer:** b
-
-4. **In #3, this is the particle's acceleration as a function of time.**
-
-   **Solution:** The acceleration $ a(t) $ is the first derivative of the velocity function $ v(t) $:
-   $$
-   a(t) = \frac{dv}{dt} = \frac{d}{dt}(3t^2 - 8t) = 6t - 8
-   $$
-   **Answer:** a
-
-5. **If $ x = x(t) $ is the position of a particle along a straight line, and the first and second derivatives exist, this is true.**
-
-   **Solution:** 
-   - $ \frac{dx}{dt} $ gives the particle's instantaneous velocity.
-   - $ x''(t) $ or $ \frac{d^2x}{dt^2} $ gives the particle's instantaneous acceleration.
-   - Both statements are true.
-   **Answer:** d
-
-6. **A ball is thrown upwards with an initial velocity of 40 m/s. This is the ball's acceleration after 3 seconds.**
-
-   **Solution:** The acceleration of the ball is due to gravity, which is constant and equal to $ -9.8 \, \text{m/s}^2 $ (negative because it acts downward).
-   **Answer:** d
-
-7. **In #6, this is the ball's velocity after 3 seconds.**
-
-   **Solution:** The velocity of the ball as a function of time is given by:
-   $$
-   v(t) = v_0 - gt = 40 - 9.8t
-   $$
-   Substitute $ t = 3 $:
-   $$
-   v(3) = 40 - 9.8(3) = 40 - 29.4 = 10.6 \, \text{m/s}
-   $$
-   **Answer:** c
-
-8. **The velocity of object X that travels in a straight line is given by $ v = 4 \, \text{m/s} $. Assume uniform motion. This is the object's displacement after 10 seconds.**
-
-   **Solution:** Displacement for uniform motion is given by:
-   $$
-   \text{Displacement} = v \cdot t = 4 \cdot 10 = 40 \, \text{meters}
-   $$
-   **Answer:** d
-
-9. **The velocity of object Y that travels along a straight line is given by $ v = 4t \, \text{m/s} $. This is the object's displacement after 2 seconds.**
-
-   **Solution:** Displacement is the integral of velocity with respect to time:
-   $$
-   \text{Displacement} = \int_0^2 v(t) \, dt = \int_0^2 4t \, dt = 4 \left[ \frac{t^2}{2} \right]_0^2 = 4 \left( \frac{2^2}{2} - \frac{0^2}{2} \right) = 4 \left( \frac{4}{2} \right) = 4 \cdot 2 = 8 \, \text{meters}
-   $$
-   **Answer:** c
-
-10. **The position of an object in meters along a horizontal line is given by $ x(t) = 3e^{-t} $. This is the object's acceleration as a function of time.**
-
-    **Solution:** First, find the velocity $ v(t) $:
-    $$
-    v(t) = \frac{dx}{dt} = \frac{d}{dt}(3e^{-t}) = 3(-e^{-t}) = -3e^{-t}
-    $$
-    Next, find the acceleration $ a(t) $:
-    $$
-    a(t) = \frac{dv}{dt} = \frac{d}{dt}(-3e^{-t}) = -3(-e^{-t}) = 3e^{-t}
-    $$
-    **Answer:** c
+# Kinematics Questions, Solutions, and Answers
 
 ---
 
-### Final Answers:
+### **1. Instantaneous Velocity Function**
 
-1. b  
-2. a  
-3. b  
-4. a  
-5. d  
-6. d  
-7. c  
-8. d  
-9. c  
-10. c  
+**Question:**  
+The position of an object in meters along a straight line as a function of time is given by  
+\( x(t) = t^3 - 5t^2 + 4t \).  
+This is the object’s instantaneous velocity as a function of time.
+
+**Solution:**  
+Velocity is the first derivative of position:  
+\[
+v(t) = \frac{dx}{dt} = 3t^2 - 10t + 4
+\]
+
+**Answer:**  
+**b. \( v(t) = 3t^2 - 10t + 4 \)**
 
 ---
 
-**Final Answer:**
+### **2. Instantaneous Velocity at \( t = 2 \)**
+
+**Solution:**  
+\[
+v(2) = 3(2)^2 - 10(2) + 4 = 12 - 20 + 4 = -4
+\]
+
+**Answer:**  
+**a. -4 m/s**
+
+---
+
+### **3. Particle Velocity at \( t = 2 \)**
+
+**Question:**  
+\( v(t) = 3t^2 - 8t \)
+
+**Solution:**  
+\[
+v(2) = 3(4) - 8(2) = 12 - 16 = -4
+\]  
+Negative velocity → direction is to the left.
+
+**Answer:**  
+**b. The direction of the object is to the left.**
+
+---
+
+### **4. Particle’s Acceleration**
+
+**Solution:**  
+\[
+a(t) = \frac{dv}{dt} = \frac{d}{dt}(3t^2 - 8t) = 6t - 8
+\]
+
+**Answer:**  
+**a. \( a(t) = 6t - 8 \)**
+
+---
+
+### **5. Derivatives of Position**
+
+**Solution:**  
+- \( \frac{dx}{dt} \): instantaneous velocity  
+- \( \frac{d^2x}{dt^2} \) or \( x''(t) \): instantaneous acceleration  
+
+**Answer:**  
+**d. All statements are true.**
+
+---
+
+### **6. Ball's Acceleration**
+
+**Solution:**  
+In free fall, acceleration = gravity = \( -9.8 \text{ m/s}^2 \)
+
+**Answer:**  
+**d. -9.8 m/s²**
+
+---
+
+### **7. Ball’s Velocity After 3 Seconds**
+
+**Solution:**  
+\[
+v = u + at = 40 + (-9.8)(3) = 40 - 29.4 = 10.6
+\]
+
+**Answer:**  
+**c. 10.6 m/s**
+
+---
+
+### **8. Object X Displacement**
+
+**Solution:**  
+\[
+\text{Displacement} = v \times t = 4 \times 10 = 40
+\]
+
+**Answer:**  
+**c. 40 meters**
+
+---
+
+### **9. Object Y Displacement**
+
+**Solution:**  
+\[
+v(t) = 4t \Rightarrow x(t) = \int v(t) dt = \int 4t dt = 2t^2 \\
+x(2) = 2(2)^2 = 8
+\]
+
+**Answer:**  
+**c. 8 meters**
+
+---
+
+### **10. Acceleration from Position Function**
+
+**Question:**  
+\( x(t) = 3e^{-t} \)
+
+**Solution:**  
+Velocity:  
+\[
+v(t) = \frac{dx}{dt} = -3e^{-t}
+\]  
+Acceleration:  
+\[
+a(t) = \frac{dv}{dt} = 3e^{-t}
+\]
+
+**Answer:**  
+**c. \( a(t) = 3e^{-t} \)**
+
+---
