@@ -1,225 +1,153 @@
-# Physics Activity Compilation  
-## Topics: Measurement, Physical Quantities, Uncertainty & Graphical Analysis  
+# Physics Activities Compilation  
+## Chapters: 1.1 – 3.3  
+### Topics: Measurement, Physical Quantities, Uncertainty & Error Analysis, Motion Graphs  
 
 ---
 
 ## 🧪 Activity 1.1 – Measurement & Scientific Notation  
 *(From: Gen_Phys_1.1_Measurement.pdf)*
 
-### Multiple Choice
+### Multiple Choice  
+**Choose the letter of the best answer.**
 
-1. The approximate speed of light is 300,000,000 m/s. This is its representation in scientific notation.
-   - **a. 3 × 10⁸ m/s**
-   - **b. 3 × 10⁷ m/s**
-   - **c. 3 × 10⁶ m/s**
-   - **d. 3 × 10⁵ m/s**
+---
+
+1. **This is 356.2 cm in meters.**  
+   a. 3.562 m  
+   b. 35.62 m  
+   c. 0.3562 m  
+   d. 3.562 × 10² m  
 
    **Solution:**  
-   Move decimal 8 places → 3 × 10⁸  
+   1 meter = 100 centimeters → divide by 100  
+   356.2 ÷ 100 = 3.562 m  
    ✅ **Answer: a**
 
 ---
 
-2. The half-life of carbon-14 is 5,730 years. In scientific notation:
-   - **a. 5.73 × 10³ years**
-   - **b. 5.73 × 10² years**
-   - **c. 5.73 × 10⁴ years**
-   - **d. 5.73 × 10¹ years**
+2. **If a basketball player is 6 ft and 1 inch tall, what is his height in cm?**  
+   a. 195.41 cm  
+   b. 1.95 cm  
+   c. 185.42 cm  
+   d. 185 × 10² cm  
 
    **Solution:**  
-   5,730 = 5.73 × 1000 = 5.73 × 10³  
-   ✅ **Answer: a**
-
----
-
-3. Convert 20.8 km to meters.
-   - **a. 208 m**
-   - **b. 2080 m**
-   - **c. 20,800 m**
-   - **d. 208,000 m**
-
-   **Solution:**  
-   1 km = 1000 m → 20.8 × 1000 = 20,800 m  
+   1 foot = 30.48 cm  
+   6 ft = 6 × 30.48 = 182.88 cm  
+   1 inch = 2.54 cm  
+   Total height = 182.88 + 2.54 = 185.42 cm  
    ✅ **Answer: c**
 
 ---
 
-4. Convert 330 grams to kilograms.
-   - **a. 0.033 kg**
-   - **b. 0.33 kg**
-   - **c. 3.3 kg**
-   - **d. 33 kg**
+3. **This mass is the largest.**  
+   a. 10.5 kg  
+   b. 20 lb  
+   c. 1,005 g  
+   d. 1.05 × 10² kg  
 
    **Solution:**  
-   1 kg = 1000 g → 330 ÷ 1000 = 0.33 kg  
-   ✅ **Answer: b**
-
----
-
-5. A car travels at 72 km/h. What is this in m/s?
-   - **a. 10 m/s**
-   - **b. 20 m/s**
-   - **c. 30 m/s**
-   - **d. 40 m/s**
-
-   **Solution:**  
-   72 km/h = 72,000 m / 3600 s = 20 m/s  
-   ✅ **Answer: b**
-
----
-
-## 📏 Activity 1.2 – Physical Quantities  
-*(From: Gen_Phys_1.2_Physical-Quantities.pdf)*
-
-### Short Answer
-
-1. Give an example of a **derived quantity** and explain why it is derived.
-
-   **Solution:**  
-   Example: Speed. It is derived because it comes from dividing distance by time (m/s).  
-   ✅ **Answer: Speed; derived from fundamental quantities**
-
----
-
-2. What are the **fundamental quantities** involved in measuring the volume of a cube?
-
-   **Solution:**  
-   Volume = length × width × height → all are forms of length  
-   ✅ **Answer: Length**
-
----
-
-3. If you measure the mass of a pebble and divide it by its volume, what physical quantity do you get?
-
-   **Solution:**  
-   Density = mass/volume  
-   ✅ **Answer: Density**
-
----
-
-4. What is the unit of measurement for density?
-
-   **Solution:**  
-   Mass in grams, volume in cm³ → g/cm³  
-   ✅ **Answer: g/cm³**
-
----
-
-5. Why are some stains invisible even under visible light?
-
-   **Solution:**  
-   They only fluoresce under UV light  
-   ✅ **Answer: Some substances reflect light outside the visible spectrum**
-
----
-
-## 📊 Activity 1.3 – Uncertainty & Error Analysis  
-*(From: Gen_Phys_1.3_Uncertainty_Error_Analysis.pdf)*
-
-### Problem Solving
-
-1. A projectile travels 18.0 ± 0.1 m in 3.0 ± 0.1 s. Estimate its speed.
-
-   **Solution:**  
-   Speed = distance/time = 18.0 / 3.0 = 6.0 m/s  
-   ✅ **Answer: 6.0 m/s**
-
----
-
-2. Find the sum of fractional uncertainties.
-
-   **Solution:**  
-   Fractional uncertainty = 0.1/18 + 0.1/3 = 0.0056 + 0.0333 ≈ 0.0389  
-   ✅ **Answer: 0.04**
-
----
-
-3. What is the uncertainty in the speed?
-
-   **Solution:**  
-   Uncertainty = 0.04 × 6.0 = 0.24 m/s  
-   ✅ **Answer: ± 0.24 m/s**
-
----
-
-4. Write the final measured speed with uncertainty.
-
-   **Solution:**  
-   Measured speed = estimate ± uncertainty  
-   ✅ **Answer: 6.00 ± 0.24 m/s**
-
----
-
-5. A lot has length = 10.0 ± 0.1 m and width = 5.0 ± 0.1 m. Compute the perimeter.
-
-   **Solution:**  
-   Perimeter = 2 × (length + width) = 2 × (10.0 + 5.0) = 30.0 m  
-   Uncertainty = 0.1 + 0.1 = 0.2 m  
-   ✅ **Answer: 30.0 ± 0.2 m**
-
----
-
-## 📈 Activity 1.4 – Graphical Analysis  
-*(From: Gen_Phys_1.4_Graphical_analyisis.pdf)*
-
-### Interpretation
-
-1. What does the slope of a position-time graph represent?
-
-   **Solution:**  
-   Slope = change in position over time → velocity  
-   ✅ **Answer: Velocity**
-
----
-
-2. What does the area under a velocity-time graph represent?
-
-   **Solution:**  
-   Area = velocity × time → displacement  
-   ✅ **Answer: Displacement**
-
----
-
-3. A straight line on a velocity-time graph indicates:
-
-   - **a. Constant speed**
-   - **b. Constant acceleration**
-   - **c. Zero acceleration**
-   - **d. Changing velocity**
-
-   **Solution:**  
-   Straight horizontal line = constant velocity → zero acceleration  
-   ✅ **Answer: c**
-
----
-
-4. What does a curved line on a position-time graph indicate?
-
-   - **a. Uniform motion**
-   - **b. Accelerated motion**
-   - **c. No motion**
-   - **d. Constant velocity**
-
-   **Solution:**  
-   Curved line means changing slope → changing velocity → acceleration  
-   ✅ **Answer: b**
-
----
-
-5. Which graph best represents constant positive acceleration?
-
-   - **a. Horizontal line on velocity-time graph**
-   - **b. Diagonal line on velocity-time graph**
-   - **c. Parabola on position-time graph**
-   - **d. Both b and c**
-
-   **Solution:**  
-   Diagonal line on v-t = constant acceleration  
-   Parabola on x-t = also constant acceleration  
+   Convert all to kilograms:  
+   - 10.5 kg = 10.5 kg  
+   - 20 lb ≈ 9.07 kg  
+   - 1,005 g = 1.005 kg  
+   - 1.05 × 10² kg = 105 kg  
    ✅ **Answer: d**
 
 ---
 
-## ✅ Final Answer Keys
+4. **Samantha devotes 1.5 hours to studying math every day. What is this in minutes?**  
+   a. 150 min  
+   b. 130 min  
+   c. 100 min  
+   d. 90 min  
 
-### Activity 1.1:
+   **Solution:**  
+   1 hour = 60 minutes  
+   1.5 × 60 = 90 minutes  
+   ✅ **Answer: d**
+
+---
+
+5. **If the boiling point of water at 1 atm is 100 °C, what is the boiling point of water in Kelvin?**  
+   a. 100 K  
+   b. 373.15 K  
+   c. 273.15 K  
+   d. 200 K  
+
+   **Solution:**  
+   Kelvin = Celsius + 273.15  
+   100 + 273.15 = 373.15 K  
+   ✅ **Answer: b**
+
+---
+
+6. **This is the mass of 5 liters of water at 4 °C and measured at sea level.**  
+   a. 5 g  
+   b. 500 g  
+   c. 5 kg  
+   d. 50 kg  
+
+   **Solution:**  
+   At 4 °C, density of water = 1 kg/L  
+   5 L × 1 kg/L = 5 kg  
+   ✅ **Answer: c**
+
+---
+
+7. **This is the largest volume.**  
+   a. 10 (US) gallons  
+   b. 10 liters  
+   c. 100 milliliters  
+   d. 10 (US) pints  
+
+   **Solution:**  
+   Approximate conversions:  
+   - 1 US gallon ≈ 3.785 L → 10 gal ≈ 37.85 L  
+   - 10 L = 10 L  
+   - 100 mL = 0.1 L  
+   - 1 US pint ≈ 0.473 L → 10 pints ≈ 4.73 L  
+   ✅ **Answer: a**
+
+---
+
+8. **How many minutes are there in 5 days?**  
+   a. 7.2 × 10³ min  
+   b. 3,600 min  
+   c. 7.2 × 10² min  
+   d. 720 min  
+
+   **Solution:**  
+   1 day = 24 hours  
+   1 hour = 60 minutes  
+   5 × 24 × 60 = 7200 min = 7.2 × 10³ min  
+   ✅ **Answer: a**
+
+---
+
+9. **Mom bought 10 yards of yarn from a textile retail store. If the price of the yarn is ₱2 per meter, how much did mom pay the retailer?**  
+   a. ₱180  
+   b. ₱20.2  
+   c. ₱200  
+   d. ₱18.2  
+
+   **Solution:**  
+   1 yard = 0.9144 meters  
+   10 yards = 9.144 meters  
+   Price = 9.144 × ₱2 = ₱18.288 ≈ ₱18.2  
+   ✅ **Answer: d**
+
+---
+
+10. **The mass of a fluid is 12 ounces. This is the mass of the fluid in grams.**  
+    a. 34 g  
+    b. 604.8 g  
+    c. 453.6 g  
+    d. 340.2 g  
+
+    **Solution:**  
+    1 ounce ≈ 28.35 grams  
+    12 × 28.35 = 340.2 g  
+    ✅ **Answer: d**
+
+---
