@@ -312,6 +312,8 @@ At `t = 2`: `x(2) = 2(2)² = 8 meters`
 
 ---
 
+![figure 2](s2.PNG)
+
 4. This is the velocity of the object at `t = 1 s`.  
    **a. 2 m/s b. -1 m/s c. -0.5 m/s d. 1.25 m/s**
 
