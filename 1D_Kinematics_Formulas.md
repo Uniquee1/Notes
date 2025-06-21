@@ -160,12 +160,7 @@ $v(10) = -10 \sin(50) \approx -10 \cdot (-0.26237) = \boxed{2.62 \, \text{m/s}}$
 $a(t) = \frac{d^2x}{dt^2} = -50 \cos(5t)$
 $a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}$
 
----
 
-
-# Kinematics Questions, Solutions, and Answers
-
----
 
 ### **1. Instantaneous Velocity Function**
 
