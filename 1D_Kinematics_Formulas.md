@@ -1,138 +1,165 @@
-
-# 📘 Physics 1D Kinematics Formula Sheet
-
-This document summarizes the essential formulas from the "Displacement", "Instantaneous Velocity and Acceleration", and "Motion Graphs" lessons. Each formula includes a brief explanation and a sample example.
+Here is the full version with **questions, solutions, and answers** all in **Markdown format**:
 
 ---
 
-## 📍 Section 1: Displacement, Velocity & Acceleration
+## I. Multiple Choice
 
-### Distance and Displacement
-- **Distance** (scalar):  
-  `d = |x_f - x_i|`  
-- **Displacement** (vector):  
-  `Δx = x_f - x_i`
-
-**Example:** A student walks 10 m east and 3 m west.  
-Total distance = 13 m, Displacement = 7 m
+**Choose the letter of the best answer.**
 
 ---
 
-### Speed and Velocity
-- **Speed**:  
-  `s = |Δx| / Δt`
-- **Velocity**:  
-  `v̄ = Δx / Δt`
+### **1.**
 
-**Example:** 50 m east in 5 s, then 10 m west in 2 s  
-Speed = 15 m/s, Velocity = 5 m/s
+**The position of a particle in a particle accelerator is defined by**
+$x(t) = t^3 + t^2 + t$ **meters. This is the particle’s position at** $t = 2 \, \text{s}$.
+**a.** 3 m  **b.** 4 m  **c.** 14 m  **d.** 16 m
 
----
-
-### Instantaneous Velocity and Acceleration
-- **Instantaneous Velocity**:  
-  `v(t) = dx/dt`
-- **Instantaneous Acceleration**:  
-  `a(t) = dv/dt = d²x/dt²`
-
-**Example:**  
-`x(t) = t² − 2t`  
-Then `v(t) = 2t − 2`, and `a(t) = 2`
+**Solution:**
+$x(2) = 2^3 + 2^2 + 2 = 8 + 4 + 2 = 14 \, \text{m}$
+✅ **Answer: c. 14 m**
 
 ---
 
-### Kinematic Equations (Constant Acceleration)
-1. `x = x_i + v̄t`
-2. `v̄ = (v_i + v_f)/2`
-3. `v_f = v_i + at`
-4. `x = x_i + v_it + ½at²`
-5. `v_f² = v_i² + 2a(x - x_i)`
+### **2.**
+
+**In problem #1, this gives the particle’s instantaneous velocity as a function of time.**
+**a.** $v(t) = t^3 + t^2 + t$
+**b.** $v(t) = 3t^2 + 2t + 1$
+**c.** $v(t) = t^3 + t^2 + 1$
+**d.** $v(t) = t$
+
+**Solution:**
+Velocity is the derivative of position:
+$v(t) = \frac{d}{dt}(t^3 + t^2 + t) = 3t^2 + 2t + 1$
+✅ **Answer: b. $v(t) = 3t^2 + 2t + 1$**
 
 ---
 
-## 📍 Section 2: Instantaneous Velocity & Acceleration (Calculus-based)
+### **3.**
 
-### Position Function
-`x(t) = x_i + vt + ½at²`
+**A jogger walks to the east at a constant speed of 0.9 m/s. This is the jogger’s acceleration.**
+**a.** 0.9 m/s² **b.** 1.0 m/s² **c.** 1.9 m/s² **d.** 0 m/s²
 
-### Derivatives for Velocity and Acceleration
-- `v(t) = dx/dt`
-- `a(t) = dv/dt`
-
-**Example:**  
-`x(t) = 0.2t² − t`  
-Then `v(t) = 0.4t − 1`, `a(t) = 0.4`
+**Solution:**
+Constant speed → no change in velocity → acceleration = 0
+✅ **Answer: d. 0 m/s²**
 
 ---
 
-### Integration for Displacement
-- If velocity `v(t)` is given, then  
-  `Displacement = ∫ₐᵇ v(t) dt`
+### **4.**
 
-**Example:**  
-`v(t) = 0.1t²`, from 0 to 5 s  
-Displacement = ∫₀⁵ 0.1t² dt = 4.1625 m
+**In problem #3, this is the jogger’s velocity after 3 seconds.**
+**a.** 0.9 m/s² **b.** 0.9 m/s **c.** –0.9 m/s **d.** 1.0 m/s
 
----
-
-## 📍 Section 3: Motion-Time Graphs
-
-### Derivatives and Integrals in Graphs
-- `v = dx/dt`: Slope of position-time graph
-- `a = dv/dt`: Slope of velocity-time graph
-- Displacement = Area under velocity-time graph
-- Change in velocity = Area under acceleration-time graph
+**Solution:**
+Constant velocity = 0.9 m/s
+✅ **Answer: b. 0.9 m/s**
 
 ---
 
-### Graphical Example
-If `x(t) = 2t³ − 5t² + 2t`  
-Then:
-- `v(t) = 6t² − 10t + 2`  
-- `a(t) = 12t − 10`
+### **5.**
+
+**In problem #3, this is the jogger’s displacement after 20 seconds.**
+**a.** 20 meters **b.** –20 meters **c.** 18 meters **d.** –18 meters
+
+**Solution:**
+Displacement = velocity × time = $0.9 \times 20 = 18 \, \text{m}$
+✅ **Answer: c. 18 meters**
 
 ---
 
-### Area Under Curves for Displacement and Distance
-If velocity is piecewise:
+### **6.**
 
-**Example:**  
-From t = 0 to 10 s: velocity = 4 m/s  
-Displacement = 10 × 4 = 40 m  
-From t = 10 to 14 s: triangle with base 4, height 4  
-Area = 0.5 × 4 × 4 = 8 m  
-Total = 48 m
+**A coin is tossed up and reaches its maximum height at** $t = 2 \, \text{s}$.
+**This is true:**
+**a.** The coin’s initial and final velocities are equal.
+**b.** At maximum height, acceleration due to gravity is 0.
+**c.** At maximum height, acceleration due to gravity turns positive.
+**d.** At maximum height, velocity is zero.
 
-Total distance: Sum of absolute values of all areas
-
----
-
-## 📍 Special Cases
-
-- **Free fall**: Use `g = −9.8 m/s²`
-- **Peak of projectile**: `v = 0`, solve using  
-  `v² = v_i² + 2aΔx` or `v = v_i + at`
-
-**Example:**  
-Ball thrown up at 10 m/s  
-Max height = `−(10)² / 2(−9.8)` = 5.10 m  
-Time to max height = `−v_i / g = 1.02 s`
+**Solution:**
+At the top, velocity = 0, but gravity still acts downward.
+✅ **Answer: d. At maximum height, velocity is zero.**
 
 ---
 
-## 🧮 Notation Recap
+### **7.**
 
-| Symbol | Meaning              |
-|--------|----------------------|
-| x      | Position (m)         |
-| Δx     | Displacement (m)     |
-| v      | Instantaneous velocity (m/s) |
-| v̄     | Average velocity (m/s) |
-| a      | Acceleration (m/s²)  |
-| t      | Time (s)             |
-| g      | Gravity (≈ -9.8 m/s²)|
+**A crumpled ball of paper is dropped from the third floor of a building.**
+**Ignoring air resistance, this is the ball’s velocity after 2 seconds.**
+**a.** 2 m/s **b.** –9.8 m/s **c.** –19.6 m/s **d.** 19.6 m/s
+
+**Solution:**
+$v = gt = 9.8 \times 2 = 19.6 \, \text{m/s} \downarrow \Rightarrow -19.6 \, \text{m/s}$
+✅ **Answer: c. –19.6 m/s**
 
 ---
 
-**End of Summary**  
-Derived from General Physics Chapter 3 PDFs: Displacement, Instantaneous Velocity and Acceleration, and Motion-Time Graphs.
+### **8.**
+
+**In problem #7, this is the ball’s acceleration after 2 seconds.**
+**a.** –9.8 m/s² **b.** 9.8 m/s² **c.** –9.8 m/s **d.** 9.8 m/s²
+
+**Solution:**
+Gravity is constant acceleration = –9.8 m/s²
+✅ **Answer: a. –9.8 m/s²**
+
+---
+
+### **9.**
+
+**A particle’s velocity in m/s that travels in a straight line as a function of time $t$ is given by**
+$v = 5t^2 + t$. This is true:
+**a.** Velocity is constant.
+**b.** Acceleration is constant.
+**c.** Acceleration is not uniform.
+**d.** Average velocity is 5 m/s.
+
+**Solution:**
+Acceleration = derivative of velocity = $a(t) = 10t + 1$ → not constant
+✅ **Answer: c. Acceleration is not uniform.**
+
+---
+
+### **10.**
+
+**In problem #9, this is the particle’s acceleration at** $t = 1 \, \text{s}$.
+**a.** 9 m/s² **b.** 10 m/s² **c.** 11 m/s² **d.** 12 m/s²
+
+**Solution:**
+$a(1) = 10(1) + 1 = 11 \, \text{m/s}^2$
+✅ **Answer: c. 11 m/s²**
+
+---
+
+## II. Problem Solving
+
+**A particle’s position in a horizontal particle accelerator as a function of time is**
+$x(t) = 2 \cos(5t) \, \text{m}$, **where $t$ is in seconds. The particle’s starting point is the origin.**
+
+---
+
+### a. What is the particle’s position after 10 seconds?
+
+**Solution:**
+$x(10) = 2 \cos(50) \approx 2 \cdot 0.96497 = \boxed{1.93 \, \text{m}}$
+
+---
+
+### b. What is the particle’s velocity at 10 seconds?
+
+**Solution:**
+$v(t) = \frac{dx}{dt} = -10 \sin(5t)$
+$v(10) = -10 \sin(50) \approx -10 \cdot (-0.26237) = \boxed{2.62 \, \text{m/s}}$
+
+---
+
+### c. What is the particle’s acceleration at 10 seconds?
+
+**Solution:**
+$a(t) = \frac{d^2x}{dt^2} = -50 \cos(5t)$
+$a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}$
+
+---
+
+Let me know if you'd like a PDF or LaTeX export version.
