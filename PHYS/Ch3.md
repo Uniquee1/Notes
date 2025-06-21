@@ -283,7 +283,7 @@ At `t = 2`: `x(2) = 2(2)² = 8 meters`
 
 ### Multiple Choice
 
-(s1.png)
+![figure 1](s1.png)
 
 1. This is the position of the object at `t = 2 s`.  
    **a. 2 m b. -1.25 m c. -2 m d. 1.25 m**
