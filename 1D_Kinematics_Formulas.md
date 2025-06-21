@@ -161,139 +161,124 @@ $a(t) = \frac{d^2x}{dt^2} = -50 \cos(5t)$
 $a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}$
 
 
+# Additional Multiple Choice Questions (Fixed for GitHub)
 
-### **1. Instantaneous Velocity Function**
+---
+
+### 1. Instantaneous Velocity Function
 
 **Question:**  
 The position of an object in meters along a straight line as a function of time is given by  
-\( x(t) = t^3 - 5t^2 + 4t \).  
+`x(t) = t^3 - 5t^2 + 4t`.  
 This is the object’s instantaneous velocity as a function of time.
 
 **Solution:**  
 Velocity is the first derivative of position:  
-\[
-v(t) = \frac{dx}{dt} = 3t^2 - 10t + 4
-\]
+v(t) = d/dt (t^3 - 5t^2 + 4t) = 3t^2 - 10t + 4
 
 **Answer:**  
-**b. \( v(t) = 3t^2 - 10t + 4 \)**
+b. v(t) = 3t^2 - 10t + 4
 
 ---
 
-### **2. Instantaneous Velocity at \( t = 2 \)**
+### 2. Instantaneous Velocity at t = 2
 
 **Solution:**  
-\[
-v(2) = 3(2)^2 - 10(2) + 4 = 12 - 20 + 4 = -4
-\]
+v(2) = 3*(2)^2 - 10*(2) + 4 = 12 - 20 + 4 = -4
 
 **Answer:**  
-**a. -4 m/s**
+a. -4 m/s
 
 ---
 
-### **3. Particle Velocity at \( t = 2 \)**
+### 3. Particle Velocity at t = 2
 
 **Question:**  
-\( v(t) = 3t^2 - 8t \)
+v(t) = 3t^2 - 8t
 
 **Solution:**  
-\[
-v(2) = 3(4) - 8(2) = 12 - 16 = -4
-\]  
-Negative velocity → direction is to the left.
+v(2) = 3*(4) - 8*(2) = 12 - 16 = -4  
+Negative velocity means direction is to the left.
 
 **Answer:**  
-**b. The direction of the object is to the left.**
+b. The direction of the object is to the left.
 
 ---
 
-### **4. Particle’s Acceleration**
+### 4. Particle's Acceleration
 
 **Solution:**  
-\[
-a(t) = \frac{dv}{dt} = \frac{d}{dt}(3t^2 - 8t) = 6t - 8
-\]
+a(t) = derivative of v(t) = derivative of (3t^2 - 8t) = 6t - 8
 
 **Answer:**  
-**a. \( a(t) = 6t - 8 \)**
+a. a(t) = 6t - 8
 
 ---
 
-### **5. Derivatives of Position**
+### 5. Derivatives of Position
 
 **Solution:**  
-- \( \frac{dx}{dt} \): instantaneous velocity  
-- \( \frac{d^2x}{dt^2} \) or \( x''(t) \): instantaneous acceleration  
+- dx/dt → instantaneous velocity  
+- d²x/dt² or x''(t) → instantaneous acceleration  
+- Both are true
 
 **Answer:**  
-**d. All statements are true.**
+d. All statements are true.
 
 ---
 
-### **6. Ball's Acceleration**
+### 6. Ball's Acceleration
 
 **Solution:**  
-In free fall, acceleration = gravity = \( -9.8 \text{ m/s}^2 \)
+In free fall, acceleration due to gravity is constant: -9.8 m/s²
 
 **Answer:**  
-**d. -9.8 m/s²**
+d. -9.8 m/s²
 
 ---
 
-### **7. Ball’s Velocity After 3 Seconds**
+### 7. Ball's Velocity After 3 Seconds
 
 **Solution:**  
-\[
-v = u + at = 40 + (-9.8)(3) = 40 - 29.4 = 10.6
-\]
+v = u + at = 40 + (-9.8)(3) = 40 - 29.4 = 10.6 m/s
 
 **Answer:**  
-**c. 10.6 m/s**
+c. 10.6 m/s
 
 ---
 
-### **8. Object X Displacement**
+### 8. Object X Displacement
 
 **Solution:**  
-\[
-\text{Displacement} = v \times t = 4 \times 10 = 40
-\]
+Displacement = velocity × time = 4 * 10 = 40 meters
 
 **Answer:**  
-**c. 40 meters**
+c. 40 meters
 
 ---
 
-### **9. Object Y Displacement**
-
-**Solution:**  
-\[
-v(t) = 4t \Rightarrow x(t) = \int v(t) dt = \int 4t dt = 2t^2 \\
-x(2) = 2(2)^2 = 8
-\]
-
-**Answer:**  
-**c. 8 meters**
-
----
-
-### **10. Acceleration from Position Function**
+### 9. Object Y Displacement
 
 **Question:**  
-\( x(t) = 3e^{-t} \)
+v(t) = 4t m/s
 
 **Solution:**  
-Velocity:  
-\[
-v(t) = \frac{dx}{dt} = -3e^{-t}
-\]  
-Acceleration:  
-\[
-a(t) = \frac{dv}{dt} = 3e^{-t}
-\]
+x(t) = ∫ 4t dt = 2t²  
+At t = 2 s: x(2) = 2*(2)^2 = 8 meters
 
 **Answer:**  
-**c. \( a(t) = 3e^{-t} \)**
+c. 8 meters
 
 ---
+
+### 10. Acceleration from Position Function
+
+**Question:**  
+x(t) = 3e^(-t)
+
+**Solution:**  
+v(t) = dx/dt = -3e^(-t)  
+a(t) = dv/dt = 3e^(-t)
+
+**Answer:**  
+c. a(t) = 3e^(-t)
