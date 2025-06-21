@@ -162,9 +162,9 @@ $a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}
 
 ---
 
-# 3.2
+# Solution to Multiple Choice Questions
 
-## 
+## I. Multiple Choice. Choose the letter of the best answer.
 
 1. **The position of an object in meters along a straight line as a function of time is given by $ x(t) = t^3 - 5t^2 + 4t $. This is the object's instantaneous velocity as a function of time.**
 
@@ -253,3 +253,20 @@ $a(10) = -50 \cos(50) \approx -50 \cdot 0.96497 = \boxed{-48.25 \, \text{m/s}^2}
     **Answer:** c
 
 ---
+
+### Final Answers:
+
+1. b  
+2. a  
+3. b  
+4. a  
+5. d  
+6. d  
+7. c  
+8. d  
+9. c  
+10. c  
+
+---
+
+**Final Answer:**
